@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Example_3
+namespace ServerApp
 {
     static class Program
     {
