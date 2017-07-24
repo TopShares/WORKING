@@ -1,0 +1,1617 @@
+﻿<txt>
+<grade name="">	
+                <subject name="上册">
+				<unit name="Unit1第一课时">
+					<zsd name="从右边选出与左边相对应的答案">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/1/PartA/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="读英文，选择正确的译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartA/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="把左边的图片和右边对应的句子连起来">
+						<game name="连线" zsd="句子理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/1/PartA/3/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartA/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所听内容选出相应的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartA/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/1/PartA/6/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit1第二课时">
+					<zsd name="读句子，选出正确的图片">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartB/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断下列叙述是否正确">  
+						<game name="判断" zsd="句子运用">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/1/PartB/2/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartB/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/1/PartB/4/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit1第三课时">
+					<zsd name="从右边选出与左边相对应的答案1">
+						<game name="连线" zsd="字母书写">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/1/PartC/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答案2">
+						<game name="连线" zsd="字母顺序">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/1/PartC/2/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="把左边的图片和右边对应的句子连起来">
+						<game name="连线" zsd="句子理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/1/PartC/4/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartC/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit1单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartD/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，选择你所听到的图">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartD/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，判断所听内容是否符合下面情景">  
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/1/PartD/3/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="从下列单词中找出不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartD/6/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartD/8/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/1/PartD/9/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/1/PartD/10/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit2第一课时">
+					<zsd name="读英文，选择正确的译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartA/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断下面对话与图片是否一致">  
+						<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/2/PartA/2/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartA/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/2/PartA/4/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartA/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit2第二课时">
+					<zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="句子理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/2/PartB/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答案">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/2/PartB/2/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/2/PartB/3/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit2第三课时">
+					<zsd name="从右边选出与左边相对应的答案1">
+						<game name="连线" zsd="字母书写">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/2/PartC/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答案2">
+						<game name="连线" zsd="字母顺序">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/2/PartC/2/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从下列单词中找出不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartC/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartC/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit2单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartD/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断对话与图片是否一致">  
+						<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/2/PartD/2/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="根据所听内容选出相应的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartD/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从下列单词中找出不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartD/8/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/2/PartD/9/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/2/PartD/10/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断下列叙述是否正确">  
+						<game name="判断" zsd="句子运用">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/2/PartD/11/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit3第一课时">
+					<zsd name="读英文，选择正确的译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartA/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从下列单词中找出不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartA/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断下面句子与图片是否一致">  
+						<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/3/PartA/3/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartA/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/3/PartA/5/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartA/6/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit3第二课时">
+					<zsd name="读句子，选出正确的图片">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartB/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartB/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartB/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit3第三课时">
+					<zsd name="从右边选出与左边相对应的答案">
+						<game name="连线" zsd="单词书写">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/3/PartC/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartC/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/3/PartC/4/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答案">
+						<game name="连线" zsd="单词运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/3/PartC/5/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit3单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartD/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所听内容选出相应的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartD/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="句子理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/3/PartD/8/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/3/PartD/9/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartD/10/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartD/11/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/3/PartD/12/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit4第一课时">
+					<zsd name="把左边的图片和右边对应的句子连起来">
+						<game name="连线" zsd="单词理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/4/PartA/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="读英文，选择正确的译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartA/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartA/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/4/PartA/4/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartA/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartA/6/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit4第二课时">
+					<zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="单词理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/4/PartB/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartB/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/4/PartB/3/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit4第三课时">
+					<zsd name="从右边选出与左边相对应的答案">
+						<game name="连线" zsd="字母书写">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3s/english/4/PartC/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断下面字母的大小写是否一致">  
+						<game name="判断" zsd="字母书写">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/4/PartC/3/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartC/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit4单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartD/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，选择正确的图">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartD/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，判断所听内容与译文是否一致">  
+						<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/4/PartD/3/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="根据所听内容选出相应的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartD/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从下列单词中找出不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartD/7/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartD/8/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/4/PartD/11/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit5第一课时">
+					<zsd name="将下列句子与相应的图片连线">
+						<game name="连线" zsd="单词理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/5/PartA/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从下列单词中找出不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartA/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断下面中英文意思是否一致">  
+						<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/5/PartA/4/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartA/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="看图片，选出正确答案">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartA/6/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit5第二课时">
+					<zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="句子理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/5/PartB/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/5/PartB/2/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartB/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit5第三课时">
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartC/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/5/PartC/4/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit5单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartD/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，判断所听内容与译文是否一致">  
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/5/PartD/3/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="根据所听内容选出相应的答句">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartD/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出与例词属于同类的词">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartD/7/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/5/PartD/8/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartD/9/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/5/PartD/10/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="把左边的图片和右边对应的句子连起来">
+						<game name="连线" zsd="句子理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/5/PartD/11/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/5/PartD/13/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit6第一课时">
+					<zsd name="把左边的图片和右边对应的单词连起来">
+						<game name="连线" zsd="单词理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/6/PartA/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断下面中英文意思是否一致">  
+						<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/6/PartA/2/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartA/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择正确的答句">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartA/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartA/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit6第二课时">
+					<zsd name="读英文，选择正确的译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartB/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartB/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/6/PartB/4/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit6第三课时">
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/6/PartC/2/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="单词运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartC/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartC/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit6单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartD/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，选择正确的译文">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartD/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所听内容选出相应的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartD/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/6/PartD/8/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartD/9/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/6/PartD/10/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将下面句子按顺序重新排列">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/6/PartD/11/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/6/PartD/12/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				         </unit>
+				         <unit name="Unit7第一课时">
+					<zsd name="把左边的图片和右边对应的单词连起来">
+						<game name="连线" zsd="单词理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/7/PartA/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="看图片，选出正确答案">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartA/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="读英文，选择正确的译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartA/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择正确的答句">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartA/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartA/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/7/PartA/6/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="把左边的图片和右边对应的句子连起来">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/7/PartA/7/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit7第二课时">
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartB/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/7/PartB/4/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/7/PartB/5/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit7第三课时">
+					<zsd name="从下列单词中找出不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartC/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartC/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将下面句子按顺序重新排列">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/7/PartC/5/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit7单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartD/1/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，判断下列句子与所听到的句子是否一致">  
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/7/PartD/3/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="听录音，判断答句是否正确">  
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/7/PartD/5/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="选择填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartD/8/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/7/PartD/9/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/7/PartD/10/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/7/PartD/11/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit8第一课时">
+					<zsd name="把左边的图片和右边对应的短语连起来">
+						<game name="连线" zsd="单词理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartA/1/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="句子理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartA/2/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="读英文，选择正确的译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/8/PartA/3/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartA/4/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选词填空">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/8/PartA/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartA/6/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给情景选择正确的英文表达">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/8/PartA/7/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="把左边的图片和右边对应的句子连起来">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartA/8/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit8第二课时">
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartB/2/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/8/PartB/3/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="从右边选出左边需要的单词">
+						<game name="连线" zsd="单词运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartB/4/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit8第三课时">
+					<zsd name="从右边选出左边需要的单词">
+						<game name="连线" zsd="单词运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartC/3/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit8单元检测">
+					<zsd name="听录音，选出你所听到的选项">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/8/PartD/2/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，判断所听内容是否符合下面情景">  
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3s/english/8/PartD/3/basket/danci1.xml" psway="3s/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="听录音，选择正确的译文">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/8/PartD/4/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所听内容选出相应的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/8/PartD/5/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将左右相符的中英文连接起来">
+						<game name="连线" zsd="句子理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/3s/english/8/PartD/9/key/key.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3s/english/8/PartD/10/mhgz1/db.xml" psway="3s/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将下列句子排成一段通顺的对话">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3s/english/8/PartD/11/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+		          </unit>
+                </subject>
+                <subject name="下册">
+				<unit name="Unit1第一课时">
+					<zsd name="单词听力选择">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartA/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/3x/english/1/PartA/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/3x/english/1/PartA/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartA/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+                                             <zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="句子理解">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/1/PartA/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/1/PartA/4/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="Unit1第二课时">
+					<zsd name="选词填空">
+						<game name="连线" zsd="单词运用">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/1/PartB/2/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="句子连线">
+						<game name="连线" zsd="句子理解">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/1/PartB/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景连线">  
+						<game name="连线" zsd="句子运用">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/1/PartB/4/key/key.xml" psway="3x/english" type="D"/>
+						</game>      
+					</zsd>
+				</unit>
+				<unit name="Unit1第三课时">
+					<zsd name="判断图片与所听声音是否一致">  
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/1/PartC/1/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="判断字母读音是否相同">
+						<game name="判断" zsd="字母读音">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/1/PartC/2/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="将图片与合适短语连线">   
+						<game name="连线" zsd="句子理解">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/1/PartC/4/key/key.xml" psway="3x/english" type="D"/>
+						</game>  
+					</zsd>
+				</unit>
+				<unit name="Unit1综合复习">
+					<zsd name="单词听力选择">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartD/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game> 
+					</zsd>
+					<zsd name="听声音，选句子">    
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartD/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听问句，选答句">    
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartD/4/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出单词中不同的一项">     
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartD/5/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartD/7/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>                 
+					</zsd>
+				</unit>
+				<unit name="Unit1拓展练习">
+					<zsd name="听录音，根据所听句子选择答案1">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartE/1/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，选出你所听到句子">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartE/2/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听句子选择答案2">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/1/PartE/3/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容判断对错">
+				         <game name="判断" zsd="句子听力">
+						<intface name="记事本" swf="12" txtway="xt_dir/3x/english/1/PartE/4/basket/danci1.xml" psway="3x/english" type="D"/>
+					</game>	
+					</zsd>
+					<zsd name="听录音，判断所听内容与句子是否一致">
+				         <game name="判断" zsd="句子听力">
+						<intface name="记事本" swf="12" txtway="xt_dir/3x/english/1/PartE/5/basket/danci1.xml" psway="3x/english" type="D"/>
+					</game>	
+					</zsd>
+				</unit>
+				<unit name="Unit2第一课时">
+					<zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="句子理解">
+							<intface name="送信" swf="32" txtway="xt_dir/3x/english/2/PartA/2/key/key.xml" psway="3x/english" type="D"/>
+						</game>                 
+					</zsd>
+					<zsd name="将图片与合适句子连线">
+						<game name="连线" zsd="句子理解">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/2/PartA/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>                 
+					</zsd>
+				</unit>
+				<unit name="Unit2第二课时">
+					<zsd name="听声音，选答案">
+						<game name="选择" zsd="句子听力">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/3x/english/2/PartB/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据上下文判断句子">  
+						<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/2/PartB/3/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="情景选择">  
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartB/4/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>          
+					</zsd>
+				</unit>
+				<unit name="Unit2第三课时">
+					<zsd name="判断图片与所听声音是否一致">   
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/2/PartC/1/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="情景选择">  
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartC/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>  
+					</zsd>
+				</unit>
+				<unit name="Unit2综合复习">
+					<zsd name="单词听力选择">  
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartD/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="连词成句"> 
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/2/PartD/2/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="听声音，选择合适的译文"> 
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartD/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听问句，选答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartD/4/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断字母读音是否相同">
+						<game name="判断" zsd="单词读音">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/2/PartD/5/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="将图片与合适单词连线">
+						<game name="连线" zsd="单词理解">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/2/PartD/6/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出单词中不同的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartD/7/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartD/8/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="句子连线">
+						<game name="连线" zsd="句子理解">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/2/PartD/9/key/key.xml" psway="3x/english" type="D"/>
+						</game>        
+					</zsd>		       	
+				</unit>
+				<unit name="Unit2拓展练习">
+					<zsd name="听录音，根据所听内容选择答案1">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartE/1/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容选择答案2">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartE/2/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容排列顺序">
+					<game name="排序" zsd="句子听力">
+						<intface name="记事本" swf="42" txtway="xt_dir/3x/english/2/PartE/3/class/class.txt" psway="3x/english" type="D"/>
+	 				</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容判断对错">
+				         <game name="判断" zsd="句子听力">
+						<intface name="记事本" swf="12" txtway="xt_dir/3x/english/2/PartE/4/basket/danci1.xml" psway="3x/english" type="D"/>
+					</game>	
+					</zsd>
+					<zsd name="听录音，根据所听内容选择答案3">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/2/PartE/5/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+				</unit>
+
+				<unit name="Unit3第一课时">
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/3/PartA/1/class/class.txt" psway="3x/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="将图片与合适单词连线">
+						<game name="连线" zsd="单词理解">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/3/PartA/2/key/key.xml" psway="3x/english" type="D"/>
+						</game> 
+					</zsd>
+                                             <zsd name="句子连线">
+						<game name="连线" zsd="句子理解">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/3/PartA/3/key/key.xml" psway="3x/english" type="D"/>
+						</game> 
+					</zsd>
+				</unit>
+				<unit name="Unit3第二课时">
+					<zsd name="看图片，选单词">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartB/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="连线" zsd="句子运用">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/3/PartB/4/key/key.xml" psway="3x/english" type="D"/>
+						</game>  
+					</zsd>
+				</unit>
+				<unit name="Unit3第三课时">
+					<zsd name="判断图片与所听声音是否一致"> 
+						<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/3/PartC/1/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game> 
+					</zsd>
+				</unit>
+				<unit name="Unit3综合复习">
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/3/PartD/2/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="听问句，选答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartD/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断声音与所给场景是否一致">
+						<game name="判断" zsd="句子运用">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/3/PartD/4/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game>
+					</zsd>
+					<zsd name="选出与所给图片同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartD/6/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartD/7/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="句子连线">
+						<game name="连线" zsd="句子运用">
+                               	                         	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/3/PartD/8/key/key.xml" psway="3x/english" type="D"/>
+						</game>  
+					</zsd>	       	
+				</unit>
+				<unit name="Unit3拓展练习">
+					<zsd name="听录音，根据所听内容选择答案1">
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartE/1/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容选择答案2">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartE/2/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容选择答案3">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartE/3/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容选择图片">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartE/4/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容及问题选择答案">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/3/PartE/5/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+				</unit>	       	
+				<unit name="Unit4第一课时">
+					<zsd name="选出与括号中单词同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartA/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据所给句子选出正确译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartA/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game> 
+					</zsd>
+				</unit>
+				<unit name="Unit4第二课时">
+					<zsd name="听声音，选句子">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartB/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="句子连线">
+						<game name="连线" zsd="句子理解">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/4/PartB/2/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据图片，选择合适对话"> 
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartB/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game> 
+					</zsd>
+				</unit>	       	
+				<unit name="Unit4第三课时">
+					<zsd name="听声音，将左右两边图片连线">
+						<game name="连线" zsd="句子听力">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/4/PartC/1/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景连线">
+						<game name="连线" zsd="句子运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/4/PartC/3/key/key.xml" psway="3x/english" type="D"/>
+						</game> 
+					</zsd>
+				</unit>	       	
+				<unit name="Unit4综合复习">
+					<zsd name="连词成句">
+						<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/4/PartD/2/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>
+				     </zsd>
+					<zsd name="听问句，选答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartD/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景判断">
+						<game name="判断" zsd="句子运用">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/4/PartD/4/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game> 
+					</zsd>
+					<zsd name="判断字母读音是否相同">
+						<game name="判断" zsd="单词读音">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/4/PartD/5/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game> 
+					</zsd>
+					<zsd name="选出单词中不同的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartD/7/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartD/8/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartD/10/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd> 	
+				</unit>
+				<unit name="Unit4拓展练习">
+					<zsd name="听录音，根据所听内容选择答案1">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartE/1/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，选出你所听到句子">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartE/2/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容选择答案2">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartE/3/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容选择答案3">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartE/4/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+					<zsd name="听录音，根据所听内容选择答案4">	
+					<game name="选择" zsd="句子听力">
+						<intface name="记事本" swf="02" txtway="xt_dir/3x/english/4/PartE/5/mhgz1/db.xml" psway="3x/english" type="D"/>	
+					</game>
+					</zsd>
+				</unit>	       		
+				<unit name="Unit5第一课时">
+					<zsd name="选出听到的句子">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartA/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将左右两边图片连线">
+						<game name="连线" zsd="单词理解">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/5/PartA/2/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="中英互译">
+						<game name="连线" zsd="句子运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/5/PartA/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="判断句子是否正确">
+						<game name="判断" zsd="句子运用">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/5/PartA/4/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game> 
+					</zsd>
+				</unit>
+				<unit name="Unit5第二课时">
+					<zsd name="听声音，选数字">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartB/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出数字的左邻右舍">
+						<game name="连线" zsd="单词运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/5/PartB/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景连线">
+						<game name="连线" zsd="句子运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/5/PartB/4/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit5第三课时">
+					<zsd name="判断图片与所听声音是否一致">
+						<game name="判断" zsd="单词听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/5/PartC/1/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game> 
+					</zsd>
+					<zsd name="判断两个单词括号部分读音是否相同">
+						<game name="判断" zsd="单词读音">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/5/PartC/2/basket/danci1.xml" psway="3x/english" type="D"/>
+     						</game> 
+					</zsd>
+					<zsd name="将左右两边的中英文连线">
+						<game name="连线" zsd="句子理解">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/5/PartC/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit5综合复习">
+					<zsd name="听录音，选出听到的单词">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartD/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，选出听到的句子">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartD/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据图片选择正确的单词">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartD/5/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出下列单词中不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartD/6/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartD/7/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/5/PartD/8/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/5/PartD/9/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit6第一课时">
+					<zsd name="根据中文，选择正确译文">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartA/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边图片相对应的单词">
+						<game name="连线" zsd="单词理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/6/PartA/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将句子重新排序">
+    					<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/6/PartA/4/class/class.txt" psway="3s/english" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>
+				<unit name="Unit6第二课时">
+					<zsd name="听录音，选出与所听内容相符的图片">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartB/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartB/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit6第三课时">
+					<zsd name="看图片，选出单词所缺部分">
+						<game name="选择" zsd="单词拼写">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartC/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="看图片，选择合适的句子">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartC/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit6综合复习">
+					<zsd name="听录音，选出听到的单词">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartD/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="听录音，选择正确的答句">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartD/4/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出下列单词中不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartD/5/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/6/PartD/6/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将左右两边的答案连线">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/6/PartD/8/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit7第一课时">
+					<zsd name="听录音，选出听到的句子">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartA/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的图片">
+						<game name="连线" zsd="单词理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/7/PartA/2/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="根据中文意思翻译句子">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartA/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit7第二课时">
+					<zsd name="选词填空">
+						<game name="选择" zsd="单词运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartB/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/7/PartB/4/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartB/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit7第三课时">
+                                    <zsd name="听录音，判断内容与图意是否相符">
+    					<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/7/PartC/1/basket/danci1.xml" psway="3x/english" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartC/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将句子重新排序">
+    					<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/7/PartC/5/class/class.txt" psway="3x/english" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>
+				<unit name="Unit7综合复习">
+					<zsd name="听录音，选出听到的单词">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartD/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+                                            <zsd name="听录音，判断所听句子与下列句子是否一致">
+    					<game name="判断" zsd="句子听力">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/7/PartD/3/basket/danci1.xml" psway="3x/english" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="听录音，选择合适的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartD/4/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出下列单词中不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartD/5/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartD/6/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/7/PartD/7/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的疑问词">
+						<game name="连线" zsd="单词运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/7/PartD/8/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/7/PartD/10/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit8第一课时">
+					<zsd name="根据中文意思翻译句子">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartA/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartA/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="看图连线">
+						<game name="连线" zsd="单词理解">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/8/PartA/4/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="Unit8第二课时">
+                          <zsd name="听录音，判断内容与图意是否相符">
+    					<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/8/PartB/1/basket/danci1.xml" psway="3x/english" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="情景选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartB/2/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="看图连线">
+						<game name="连线" zsd="句子运用">
+                               	                    	<intface name="记事本" swf="30" txtway="xt_dir/3x/english/8/PartB/3/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将句子重新排序">
+    					<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/8/PartB/4/class/class.txt" psway="3x/english" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>
+				<unit name="Unit8第三课时">
+					<zsd name="选出与句子相符的图片">
+						<game name="选择" zsd="句子理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartC/3/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="将句子重新排序">
+    					<game name="排序" zsd="句子运用">
+							<intface name="记事本" swf="42" txtway="xt_dir/3x/english/8/PartC/4/class/class.txt" psway="3x/english" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>
+				<unit name="Unit8综合复习">
+					<zsd name="听录音，选出听到的单词">
+						<game name="选择" zsd="单词听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartD/1/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+                                             <zsd name="听录音，判断所听内容与图片是否相符">
+    					<game name="判断" zsd="句子理解">
+							<intface name="记事本" swf="12" txtway="xt_dir/3x/english/8/PartD/2/basket/danci1.xml" psway="3x/english" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="听录音，选择合适的答句">
+						<game name="选择" zsd="句子听力">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartD/4/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="选出下列单词中不同类的一项">
+						<game name="选择" zsd="单词理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartD/5/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="单项选择">
+						<game name="选择" zsd="句子运用">
+							<intface name="记事本" swf="02" txtway="xt_dir/3x/english/8/PartD/7/mhgz1/db.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="从右边选出与左边相对应的答句">
+						<game name="连线" zsd="句子运用">
+                               	                           <intface name="记事本" swf="30" txtway="xt_dir/3x/english/8/PartD/8/key/key.xml" psway="3x/english" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+                </subject>
+</grade>
+</txt>

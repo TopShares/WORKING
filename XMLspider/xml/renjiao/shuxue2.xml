@@ -1,0 +1,394 @@
+﻿<txt>
+<grade name="">
+		<subject name="上册">
+			<unit name="第五单元">
+					<zsd name="P47“做一做1”">
+                                       <game name="判断" zsd="混合运算">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/2x/rjmath/5/P47/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/2x/rjmath/5/P47/1/danci1.xml" psway="2x/rjmath" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/2x/rjmath/5/P47/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                     </game>	
+			     		</zsd>
+					<zsd name="P48“做一做1”">
+                                       <game name="判断" zsd="混合运算">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/2x/rjmath/5/P48/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/2x/rjmath/5/P48/1/danci1.xml" psway="2x/rjmath" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/2x/rjmath/5/P48/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                     </game>	
+			     		</zsd>
+					<zsd name="P49“做一做1”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P49/1/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P49“做一做2”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P49/2/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P49“做一做3”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P49/3/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一1”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/1/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一2”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/2/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一3”">
+                                       <game name="判断" zsd="混合运算">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/2x/rjmath/5/P50/3/danci1.xml" psway="2x/rjmath" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/2x/rjmath/5/P50/3/danci1.xml" psway="2x/rjmath" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/2x/rjmath/5/P50/3/danci1.xml" psway="2x/rjmath" type="D"/>
+                                     </game>	
+			     		</zsd>
+					<zsd name="P50“练习十一4”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/4/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p50练习十一5">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P50/5/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P50/5/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P50/5/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="P50“练习十一6”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/6/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一7”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/7/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一8”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/8/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p50练习十一9">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P50/9/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P50/9/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P50/9/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="P50“练习十一10”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/10/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一11”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/11/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p50练习十一12">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P50/12/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P50/12/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P50/12/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p50练习十一13">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P50/13/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P50/13/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P50/13/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p50练习十一14">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P50/14/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P50/14/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P50/14/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="p54做一做1">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P54/1/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P54/1/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P54/1/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做1">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P55/1/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P55/1/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P55/1/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="p55做一做2">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/2/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做3">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/3/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做4">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/4/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做5”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P55/5/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p55做一做6">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/6/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/6/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/6/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做8">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/8/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/8/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/8/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p58做一做1”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P58/1/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p58做一做2">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P58/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P58/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P58/2/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p58做一做3">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P58/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P58/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P58/3/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p58做一做4">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P58/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P58/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P58/4/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+				</unit>
+          </subject>	
+		<subject name="下册">	
+			<unit name="第五单元">
+					<zsd name="P47“做一做1”">
+                                       <game name="判断" zsd="混合运算">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/2x/rjmath/5/P47/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/2x/rjmath/5/P47/1/danci1.xml" psway="2x/rjmath" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/2x/rjmath/5/P47/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                     </game>	
+			     		</zsd>
+					<zsd name="P48“做一做1”">
+                                       <game name="判断" zsd="混合运算">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/2x/rjmath/5/P48/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/2x/rjmath/5/P48/1/danci1.xml" psway="2x/rjmath" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/2x/rjmath/5/P48/1/danci1.xml" psway="2x/rjmath" type="D"/>
+                                     </game>	
+			     		</zsd>
+					<zsd name="P49“做一做1”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P49/1/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P49“做一做2”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P49/2/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P49“做一做3”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P49/3/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一1”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/1/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一2”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/2/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一3”">
+                                       <game name="判断" zsd="混合运算">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/2x/rjmath/5/P50/3/danci1.xml" psway="2x/rjmath" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/2x/rjmath/5/P50/3/danci1.xml" psway="2x/rjmath" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/2x/rjmath/5/P50/3/danci1.xml" psway="2x/rjmath" type="D"/>
+                                     </game>	
+			     		</zsd>
+					<zsd name="P50“练习十一4”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/4/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p50练习十一5">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P50/5/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P50/5/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P50/5/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="P50“练习十一6”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/6/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一7”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/7/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一8”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/8/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p50练习十一9">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P50/9/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P50/9/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P50/9/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="P50“练习十一10”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/10/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="P50“练习十一11”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P50/11/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p50练习十一12">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P50/12/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P50/12/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P50/12/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p50练习十一13">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P50/13/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P50/13/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P50/13/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p50练习十一14">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P50/14/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P50/14/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P50/14/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="p54做一做1">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P54/1/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P54/1/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P54/1/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做1">
+                             		 <game name="选择" zsd="混合运算">
+	          	          	    <intface name="夹娃娃" swf="00" txtway="xt_dir/2x/rjmath/5/P55/1/db.xml" psway="2x/rjmath" type="D"/>
+                       	  		<intface name="捉迷藏" swf="01" txtway="xt_dir/2x/rjmath/5/P55/1/db.xml" psway="2x/rjmath" type="D"/>
+	          	               <intface name="记事本" swf="02" txtway="xt_dir/2x/rjmath/5/P55/1/db.xml" psway="2x/rjmath" type="D"/>
+                        		      </game>
+					</zsd>	
+					<zsd name="p55做一做2">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/2/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做3">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/3/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做4">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/4/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做5”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P55/5/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p55做一做6">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/6/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/6/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/6/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p55做一做8">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P55/8/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P55/8/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P55/8/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p58做一做1”">
+						<game name="速算" zsd="混合运算">
+							<intface name="速算" swf="60" txtway="xt_dir/2x/rjmath/5/P58/1/susuan.xml" psway="2x/rjmath" type="D"/>
+						</game>	
+					</zsd>	
+					<zsd name="p58做一做2">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P58/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P58/2/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P58/2/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p58做一做3">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P58/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P58/3/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P58/3/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+					<zsd name="p58做一做4">
+				 	<game name="填空" zsd="混合运算">
+				 	<intface name="记事本" swf="20" txtway="xt_dir/2x/rjmath/5/P58/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="虫子吃苹果" swf="21" txtway="xt_dir/2x/rjmath/5/P58/4/danci0.xml" psway="2x/rjmath" type="D"/>
+					<intface name="降落伞" swf="22" txtway="xt_dir/2x/rjmath/5/P58/4/danci0.xml" psway="2x/rjmath" type="D"/>
+ 	   				</game>
+				 </zsd>
+			</unit>
+          </subject>	
+</grade>
+</txt>

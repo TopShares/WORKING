@@ -1,0 +1,2749 @@
+﻿<txt>
+<grade name="">
+		<subject name="上册">
+                               <unit name="第一单元第一课时" path="xt_dir/jinsanlian/3s/math/1/1/yl.doc">
+					<zsd name="选择正确答案（基础）">
+						<game name="选择" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/1/1/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="比一比，算一算（基础）">
+    					        <game name="速算" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/1/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="看谁算得又对又快（基础）">
+    					        <game name="速算" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/1/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="时间换算（基础）">
+						<game name="填空" zsd="整十、整百数乘一位数的口算和估算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/1/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="比一比（巩固）">
+						<game name="选择" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/1/5/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="整十、整百数乘一位数的口算和估算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/1/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="选择" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/1/7/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="填空" zsd="整十、整百数乘一位数的口算和估算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/1/8/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="看谁算得又对又快（基础）">
+    					        <game name="速算" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/2/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算（基础）">
+    					        <game name="速算" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/2/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="选择正确答案1（巩固）">
+						<game name="选择" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/2/3/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="估一估，连一连（巩固）">
+						<game name="连线" zsd="整十、整百数乘一位数的口算和估算">
+						          <intface name="记事本" swf="30" txtway="xt_dir/jinsanlian/3s/math/1/2/4/key/key.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="选择正确答案2（巩固）">
+						<game name="选择" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/2/5/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="看图表，回答问题（巩固）">
+						<game name="选择" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/2/6/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="选择正确答案3（提高）">
+						<game name="选择" zsd="整十、整百数乘一位数的口算和估算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/2/7/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第一单元第二课时" path="xt_dir/jinsanlian/3s/math/1/3/yl.doc">
+					<zsd name="先圈一圈，填一填（基础）">
+						<game name="填空" zsd="倍的认识，求一个数是另一数的几倍">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/3/1/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="先摆一摆，分一分，再填空（基础）">
+						<game name="填空" zsd="倍的认识，求一个数是另一数的几倍">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/3/2/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="看图填空（基础）">
+						<game name="填空" zsd="倍的认识，求一个数是另一数的几倍">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/3/3/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="倍的认识，求一个数是另一数的几倍">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/3/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（提高）">
+						<game name="填空" zsd="倍的认识，求一个数是另一数的几倍">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/3/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>          
+                               <unit name="第一单元第四课时" path="xt_dir/jinsanlian/3s/math/1/4/yl.doc">
+					<zsd name="看图填空（基础）">
+						<game name="填空" zsd="求一个数的几倍是多少的实际问题">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/4/2/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="求一个数的几倍是多少的实际问题">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/4/3/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="求一个数的几倍是多少的实际问题">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/4/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="填空" zsd="求一个数的几倍是多少的实际问题">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/4/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>          
+                               <unit name="第一单元第五课时" path="xt_dir/jinsanlian/3s/math/1/5/yl.doc">
+					<zsd name="比一比，算一算（基础）">
+    					        <game name="速算" zsd="第一单元练习一">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/5/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="看谁算得又对又快（基础）">
+    					        <game name="速算" zsd="第一单元练习一">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/5/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="时间换算（基础）">
+						<game name="填空" zsd="第一单元练习一">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/5/3/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="摆一摆，再填空（基础）">
+						<game name="填空" zsd="第一单元练习一">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/5/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						          <intface name="虫子吃苹果" swf="21" txtway="xt_dir/jinsanlian/3s/math/1/5/4/jls/danci0.xmll" psway="jinsanlian/3s/math" type="D"/>
+						          <intface name="降落伞" swf="22" txtway="xt_dir/jinsanlian/3s/math/1/5/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="先看图，再填空（基础）">
+						<game name="填空" zsd="第一单元练习一">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/5/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第一单元练习一">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/5/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="第一单元练习一">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/5/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="选择" zsd="第一单元练习一">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/5/8/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="第一单元练习一">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/6/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算（基础）">
+    					        <game name="速算" zsd="第一单元练习一">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/6/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="看图，回答问题（巩固）">
+						<game name="填空" zsd="第一单元练习一">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/6/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="填空" zsd="第一单元练习一">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/6/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题5（提高）">
+						<game name="选择" zsd="第一单元练习一">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/6/7/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第一单元第六课时" path="xt_dir/jinsanlian/3s/math/1/7/yl.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（不进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/7/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="算一算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（不进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/7/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（不进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/7/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="看图填空（基础）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（不进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/7/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="看图回答问题（巩固）">
+						<game name="选择" zsd="笔算两、三位数乘一位数（不进位）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/7/5/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题（提高）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（不进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/7/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>          
+                               <unit name="第一单元第七课时" path="xt_dir/jinsanlian/3s/math/1/8/yl.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/8/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="算一算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/8/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/8/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="下面计算对吗？（基础）">
+						<game name="判断" zsd="笔算两、三位数乘一位数（进位）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/1/8/4/basket/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/8/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/8/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/8/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（基础）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/8/8/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>          
+                               <unit name="第一单元第八课时" path="xt_dir/jinsanlian/3s/math/1/9/yl.doc">
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="第一单元练习二（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/9/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="填空" zsd="第一单元练习二（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/9/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="第一单元练习二（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/9/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="第一单元练习二（1）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/9/7/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（提高）">
+						<game name="填空" zsd="第一单元练习二（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/9/8/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>          
+                               <unit name="第一单元第九课时" path="xt_dir/jinsanlian/3s/math/1/1/yl2.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="第一单元练习二（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/9/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="算一算，比一比（基础）">
+    					        <game name="速算" zsd="第一单元练习二（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/9/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="估计每个算式的积（巩固）">
+    					        <game name="速算" zsd="第一单元练习二（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/9/4/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit> 
+                               <unit name="第一单元第十课时" path="xt_dir/jinsanlian/3s/math/1/10/yl.doc">
+					<zsd name="算一算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（连续进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/10/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="下面计算对吗？（基础）">
+						<game name="判断" zsd="笔算两、三位数乘一位数（连续进位）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/1/10/2/basket/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="先用竖式计算，再比一比（基础）">
+    					        <game name="速算" zsd="笔算两、三位数乘一位数（连续进位）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/10/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（连续进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/10/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（连续进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/10/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="笔算两、三位数乘一位数（连续进位）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/10/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>            
+                               <unit name="第一单元第十一课时" path="xt_dir/jinsanlian/3s/math/1/11/yl.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="第一单元练习三（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/11/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="第一单元练习三（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/11/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="估一估结果是几位数（巩固）">
+						<game name="填空" zsd="第一单元练习三（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/11/3/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="选择" zsd="第一单元练习三（1）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/11/4/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="第一单元练习三（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/11/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="选择" zsd="第一单元练习三（1）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/11/6/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="填一填（提高）">
+						<game name="填空" zsd="第一单元练习三（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/11/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>            
+                               <unit name="第一单元第十二课时" path="xt_dir/jinsanlian/3s/math/1/12/yl.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="第一单元练习三（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/12/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算（基础）">
+    					        <game name="速算" zsd="第一单元练习三（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/12/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="第一单元练习三（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/12/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（提高）">
+						<game name="填空" zsd="第一单元练习三（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/12/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="第一单元练习三（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/12/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="第一单元练习三（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/12/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>            
+                               <unit name="第一单元第十三课时" path="xt_dir/jinsanlian/3s/math/1/13/yl.doc">
+					<zsd name="直接写出得数（基础）">
+    					        <game name="速算" zsd="乘数中间有0的乘法">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/13/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="乘数中间有0的乘法">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/13/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="下面的计算对吗（基础）">
+						<game name="判断" zsd="乘数中间有0的乘法">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/1/13/3/basket/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="比一比（巩固）">
+						<game name="选择" zsd="乘数中间有0的乘法">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/13/4/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="乘数中间有0的乘法">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/13/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="乘数中间有0的乘法">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/13/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>            
+                               <unit name="第一单元第十四课时" path="xt_dir/jinsanlian/3s/math/1/14/yl.doc">
+					<zsd name="比一比，算一算（基础）">
+    					        <game name="速算" zsd="乘数末尾有0的乘法">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/14/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算（基础）">
+    					        <game name="速算" zsd="乘数末尾有0的乘法">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/14/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="乘数末尾有0的乘法">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/14/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="填空（巩固）">
+						<game name="填空" zsd="乘数末尾有0的乘法">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/14/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="下面的计算对吗（基础）">
+						<game name="判断" zsd="乘数末尾有0的乘法">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/1/14/5/basket/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="乘数末尾有0的乘法">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/14/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="乘数末尾有0的乘法">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/14/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="乘数末尾有0的乘法">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/14/8/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>            
+                               <unit name="第一单元第十五课时" path="xt_dir/jinsanlian/3s/math/1/15/yl.doc">
+					<zsd name="直接写得数（基础）">
+    					        <game name="速算" zsd="第一单元练习四">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/15/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（巩固）">
+    					        <game name="速算" zsd="第一单元练习四">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/15/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第一单元练习四">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/15/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="第一单元练习四">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/15/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="填空" zsd="第一单元练习四">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/15/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（基础）">
+						<game name="填空" zsd="第一单元练习四">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/15/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>            
+                               <unit name="第一单元第十六课时" path="xt_dir/jinsanlian/3s/math/1/16/yl.doc">
+					<zsd name="直接写得数（基础）">
+    					        <game name="速算" zsd="第一单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/16/1/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="算一算，比一比（基础）">
+    					        <game name="速算" zsd="第一单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/16/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="第一单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/16/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="每个算式的积大约是多少？（巩固）">
+						<game name="连线" zsd="第一单元复习（1）">
+						          <intface name="记事本" swf="30" txtway="xt_dir/jinsanlian/3s/math/1/16/4/key/key.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="算一算，填一填（基础）">
+						<game name="填空" zsd="第一单元复习（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/16/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="第一单元复习（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/16/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="第一单元复习（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/16/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="第一单元复习（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/16/8/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="算一算（提高）">
+    					        <game name="速算" zsd="第一单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/16/9/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>            
+                               <unit name="第一单元第十七课时" path="xt_dir/jinsanlian/3s/math/1/17/yl.doc">
+					<zsd name="比一比（基础）">
+						<game name="选择" zsd="第一单元复习（2）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/17/1/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="直接写出得数（基础）">
+    					        <game name="速算" zsd="第一单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/17/2/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="第一单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/1/17/3/susuan/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="估一估，连一连（巩固）">
+						<game name="连线" zsd="第一单元复习（2）">
+						          <intface name="记事本" swf="30" txtway="xt_dir/jinsanlian/3s/math/1/17/4/key/key.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第一单元复习（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/1/17/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="选择" zsd="第一单元复习（2）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/17/6/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="选择正确答案（提高）">
+						<game name="选择" zsd="第一单元复习（2）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/1/17/7/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>
+                               <unit name="第二单元第一课时" path="xt_dir/jinsanlian/3s/math/2/1/yl.doc">
+					<zsd name="写出下面的物品各重几千克（基础）">
+						<game name="填空" zsd="认识千克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/1/1/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="在括号里填上合适的单位名称（巩固）">
+						<game name="选择" zsd="认识千克">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/2/1/2/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="谨慎选择（巩固）">
+						<game name="选择" zsd="认识千克">>
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/2/1/3/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="认识千克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/1/4/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="认识千克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/1/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="填空" zsd="认识千克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/1/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>          
+                               <unit name="第二单元第二课时" path="xt_dir/jinsanlian/3s/math/2/2/yl.doc">
+					<zsd name="选一选（基础）">
+						<game name="选择" zsd="认识克">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/2/2/1/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="看图填空（基础）">
+						<game name="填空" zsd="认识克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/2/2/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="写出下面物品的重量（基础）">
+						<game name="填空" zsd="认识克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/2/3/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="在括号里填上“千克”或“克”（基础）">
+						<game name="选择" zsd="认识克">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/2/2/4/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="单位换算（基础）">
+						<game name="填空" zsd="认识克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/2/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="认识克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/2/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="认识克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/2/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="填空" zsd="认识克">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/2/8/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>          
+                               <unit name="第二单元第三课时" path="xt_dir/jinsanlian/3s/math/2/3/yl.doc">
+					<zsd name="估一估有多重（基础）">
+						<game name="选择" zsd="第二单元练习五">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/2/3/1/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="在括号里填上“千克”或“克”（基础）">
+						<game name="选择" zsd="第二单元练习五">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/2/3/2/mhgz1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="准确判断（巩固）">
+						<game name="判断" zsd="第二单元练习五">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/2/3/3/basket/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="把重量重新排一排（缺）（巩固）">
+						<game name="判断" zsd="第二单元练习五">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/2/3/3/basket/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="单位换算（基础）">
+						<game name="填空" zsd="第二单元练习五">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/3/5/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第二单元练习五">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/3/6/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="第二单元练习五">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/3/7/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="填空" zsd="第二单元练习五">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/2/3/8/jls/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第三单元第一课时" path="xt_dir/jinsanlian/3s/math/3/1/yl.doc">
+					<zsd name="在括号里填上合适的数（基础）">
+						<game name="一题多问" zsd="认识长方形和正方形">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/3/1/3/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="认识长方形和正方形">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/1/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="数一数（提升）">
+						<game name="填空" zsd="认识长方形和正方形">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/1/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第三单元第二课时" path="xt_dir/jinsanlian/3s/math/3/2/yl.doc">
+					<zsd name="细心填写（基础）">
+						<game name="填空" zsd="认识周长">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/2/1/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="把正确答案的序号填在括号里（巩固）">
+						<game name="选择" zsd="认识周长">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/3/2/2/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="算出下面各图形的周长（基础）">
+						<game name="填空" zsd="认识周长">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/2/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第三单元第三课时" path="xt_dir/jinsanlian/3s/math/3/3/yl.doc">
+					<zsd name="计算下面每个图形的周长（基础）">
+						<game name="填空" zsd="长方形和正方形周长的计算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/3/2/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="填表（基础）">
+						<game name="一题多问" zsd="长方形和正方形周长的计算">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/3/3/3/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="填空" zsd="长方形和正方形周长的计算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/3/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第三单元第四课时" path="xt_dir/jinsanlian/3s/math/3/4/yl.doc">
+					<zsd name="解决实际问题（基础）">
+						<game name="填空" zsd="第三单元练习六（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/4/2/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="填表（基础）">
+						<game name="一题多问" zsd="第三单元练习六（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/3/4/3/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="填空" zsd="第三单元练习六（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/4/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="一题多问" zsd="第三单元练习六（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/3/4/7/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第三单元综合与实践" path="xt_dir/jinsanlian/3s/math/3/zhysj/yl.doc">
+					<zsd name="计算下面图形的周长（基础）">
+						<game name="填空" zsd="周长是多少">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/zhysj/1/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="选择正确答案的序号填在括号内（巩固）">
+						<game name="一题多问" zsd="周长是多少">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/3/zhysj/2/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="一题多问" zsd="周长是多少">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/3/zhysj/4/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题（基础）">
+						<game name="填空" zsd="周长是多少">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/3/zhysj/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="选择" zsd="周长是多少">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/3/zhysj/6/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第一课时" path="xt_dir/jinsanlian/3s/math/4/1/yl.doc">
+					<zsd name="比一比，算一算（基础）">
+    					        <game name="速算" zsd="整十、整百数除以一位数的口算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/1/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="整十、整百数除以一位数的口算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/1/2/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/1/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/1/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/1/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="一题多问" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/1/7/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提升）">
+						<game name="填空" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/1/8/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第二课时" path="xt_dir/jinsanlian/3s/math/4/2/yl.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="笔算两、三位数除以一位数（首位能整除）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/2/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算（基础）">
+						<game name="判断" zsd="笔算两、三位数除以一位数（首位能整除）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/2/2/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+						<game name="判断" zsd="笔算两、三位数除以一位数（首位能整除）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/2/3/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="选择" zsd="笔算两、三位数除以一位数（首位能整除）">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/2/4/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/2/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="一题多问" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/2/6/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="填空" zsd="整十、整百数除以一位数的口算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/2/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第三课时" path="xt_dir/jinsanlian/3s/math/4/3/yl.doc">
+					<zsd name="直接写出得数（基础）">
+    					        <game name="速算" zsd="除法的验算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/3/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+						<game name="填空" zsd="除法的验算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/3/2/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="除法的验算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/3/3/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="除法的验算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/3/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="一题多问" zsd="除法的验算">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/3/5/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="填空" zsd="除法的验算">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/3/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第四课时" path="xt_dir/jinsanlian/3s/math/4/4/yl.doc">
+					<zsd name="口算下面各题（基础）">
+    					        <game name="速算" zsd="第四单元练习七（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/4/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+						<game name="判断" zsd="第四单元练习七（1）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/4/2/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="填表（基础）">
+						<game name="一题多问" zsd="第四单元练习七（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/4/3/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第四单元练习七（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/4/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="第四单元练习七（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/4/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="填空" zsd="第四单元练习七（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/4/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第六课时" path="xt_dir/jinsanlian/3s/math/4/5/yl.doc">
+					<zsd name="直接写出得数（基础）">
+    					        <game name="速算" zsd="笔算两数除以一位数（首位不能整除）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/5/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+						<game name="判断" zsd="笔算两数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/5/2/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+						<game name="判断" zsd="笔算两数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/5/3/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="比一比，算一算（基础）">
+    					        <game name="速算" zsd="笔算两数除以一位数（首位不能整除）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/5/4/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="笔算两数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/5/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（提升）">
+						<game name="填空" zsd="笔算两数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/5/8/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第七课时" path="xt_dir/jinsanlian/3s/math/4/6/yl.doc">
+					<zsd name="比一比，算一算（基础）">
+    					        <game name="速算" zsd="笔算三位数除以一位数（首位不能整除）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/6/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="先估计左边各题的商是几百多（基础）">
+						<game name="连线" zsd="笔算三位数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="30" txtway="xt_dir/jinsanlian/3s/math/4/6/2/key.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="笔算三位数除以一位数（首位不能整除）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/6/3/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="填写下表（基础）">
+						<game name="一题多问" zsd="笔算三位数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/6/4/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="选择" zsd="笔算三位数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/6/5/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="笔算三数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/6/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="填空" zsd="笔算三数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/6/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（提升）">
+						<game name="填空" zsd="笔算三数除以一位数（首位不能整除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/6/8/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第八课时" path="xt_dir/jinsanlian/3s/math/4/7/yl.doc">
+					<zsd name="判断（基础）">
+						<game name="判断" zsd="笔算三位数除以一位数（首位不够除）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/7/1/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="不计算，你知道下面哪些算式的商是几位数（基础）">
+						<game name="判断" zsd="笔算三位数除以一位数（首位不够除）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/7/2/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="用竖式计算（基础）">
+    					        <game name="速算" zsd="笔算三位数除以一位数（首位不够除）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/7/3/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="笔算三位数除以一位数（首位不够除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/7/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="笔算三位数除以一位数（首位不够除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/7/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="笔算三位数除以一位数（首位不够除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/7/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（提升）">
+						<game name="填空" zsd="笔算三位数除以一位数（首位不够除）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/7/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第九课时" path="xt_dir/jinsanlian/3s/math/4/8/yl.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="第四单元练习八（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/8/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="用竖式计算并验算（基础）">
+						<game name="选择" zsd="第四单元练习八（1）">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/8/2/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="选择" zsd="第四单元练习八（1）">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/8/3/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="一题多问" zsd="第四单元练习八（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/8/4/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第十一课时" path="xt_dir/jinsanlian/3s/math/4/9/yl.doc">
+					<zsd name="直接写出得数。（基础）">
+    					        <game name="速算" zsd="商中间或末尾有0的除法（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/9/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="下面计算对吗？（基础）">
+						<game name="判断" zsd="商中间或末尾有0的除法（1）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/9/3/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="先估算商是几十多还是几百多。（巩固）">
+						<game name="选择" zsd="商中间或末尾有0的除法（1）">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/9/4/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="商中间或末尾有0的除法（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/9/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="一题多问" zsd="商中间或末尾有0的除法（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/9/6/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="填空" zsd="商中间或末尾有0的除法（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/9/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第十二课时" path="xt_dir/jinsanlian/3s/math/4/10/yl.doc">
+					<zsd name="估算后将算式填在对应的方框内。（巩固）">
+						<game name="一题多问" zsd="商中间或末尾有0的除法（2）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/10/2/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="判断（巩固）">
+						<game name="判断" zsd="商中间或末尾有0的除法（2）">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/10/4/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="选择" zsd="商中间或末尾有0的除法（1）">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/10/5/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第十三课时" path="xt_dir/jinsanlian/3s/math/4/11/yl.doc">
+					<zsd name="直接写出得数。（基础）">
+    					        <game name="速算" zsd="第四单元练习九">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/11/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="用竖式计算并验算。（基础）">
+    					        <game name="速算" zsd="第四单元练习九">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/11/2/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="先找出错在哪里，再改正（基础）">
+						<game name="判断" zsd="第四单元练习九">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/4/11/3/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/11/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="选择" zsd="第四单元练习九">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/11/5/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/11/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（提升）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/11/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="不计算，你能估计出商是几位数吗？（基础）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/12/1/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/12/2/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/12/3/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="选择" zsd="第四单元练习九">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/12/4/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（基础）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/12/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题5（巩固）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/12/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题6（提升）">
+						<game name="填空" zsd="第四单元练习九">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/12/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第十四课时" path="xt_dir/jinsanlian/3s/math/4/13/yl.doc">
+					<zsd name="先算一算，再比一比。（基础）">
+    					        <game name="速算" zsd="第四单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/13/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="先估计商是几位数，再用竖式计算（基础）">
+    					        <game name="速算" zsd="第四单元复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/13/2/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="解决实际问题1。（巩固）">
+						<game name="一题多问" zsd="第四单元复习（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/13/4/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="第四单元复习（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/13/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提升）">
+						<game name="填空" zsd="第四单元复习（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/13/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第四单元第十五课时" path="xt_dir/jinsanlian/3s/math/4/14/yl.doc">
+					<zsd name="先算一算，再比一比。（基础）">
+    					        <game name="速算" zsd="第四单元复习（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/4/14/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="先估计商是几位数，再用竖式计算（基础）">
+						<game name="选择" zsd="第四单元复习（2）">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/4/14/2/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="把表格填写完整。（基础）">
+						<game name="一题多问" zsd="第四单元复习（2）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/4/14/3/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第四单元复习（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/14/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="第四单元复习（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/14/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="第四单元复习（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/14/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（提升）">
+						<game name="填空" zsd="第四单元复习（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/4/14/7/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第五单元第一课时" path="xt_dir/jinsanlian/3s/math/5/1/yl.doc">
+					<zsd name="口算（基础）">
+    					        <game name="速算" zsd="从条件想起的策略（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3s/math/5/1/1/susuan.xml" psway="jinsanlian/3s/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="把表格填写完整。（基础）">
+						<game name="一题多问" zsd="从条件想起的策略（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/1/2/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="从条件想起的策略（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/1/3/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="从条件想起的策略（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/1/5/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（提升）">
+						<game name="填空" zsd="从条件想起的策略（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/1/6/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第五单元第二课时" path="xt_dir/jinsanlian/3s/math/5/2/yl.doc">
+					<zsd name="解决实际问题1（基础）">
+						<game name="一题多问" zsd="从条件想起的策略（2）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/2/1/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="从条件想起的策略（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/2/3/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="填空" zsd="从条件想起的策略（2）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/2/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="一题多问" zsd="从条件想起的策略（2）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/2/5/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题5（提升）">
+						<game name="一题多问" zsd="从条件想起的策略（2）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/2/6/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第五单元第三课时" path="xt_dir/jinsanlian/3s/math/5/3/yl.doc">
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="第五单元练习十（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/3/1/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="第五单元练习十（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/3/2/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（基础）">
+						<game name="填空" zsd="第五单元练习十（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/3/3/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（基础）">
+						<game name="填空" zsd="第五单元练习十（1）">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/3/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题5（巩固）">
+						<game name="一题多问" zsd="第五单元练习十（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/3/5/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题6（巩固）">
+						<game name="一题多问" zsd="第五单元练习十（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/3/6/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题7（提升）">
+						<game name="一题多问" zsd="第五单元练习十（1）">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/3/7/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="探索规律" path="xt_dir/jinsanlian/3s/math/5/4/yl.doc">
+					<zsd name="解决实际问题1（基础）">
+						<game name="一题多问" zsd="间隔排列">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/4/1/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="一题多问" zsd="间隔排列">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/4/2/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="间隔排列">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/4/3/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题4（提升）">
+						<game name="填空" zsd="间隔排列">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/5/4/4/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="解决实际问题5（提升）">
+						<game name="一题多问" zsd="间隔排列">
+						          <intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3s/math/5/4/5/dtdxt.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第六单元第一课时" path="xt_dir/jinsanlian/3s/math/6/1/yl.doc">
+					<zsd name="下面哪些是平移哪些是旋转（基础）">
+						<game name="选择" zsd="平移和旋转">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/6/1/1/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="下面哪些是平移哪些是旋转（基础）">
+						<game name="填空" zsd="平移和旋转">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/6/1/2/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+				<unit name="第六单元第二课时" path="xt_dir/jinsanlian/3s/math/6/2/yl.doc">
+					<zsd name="下面哪些是轴对称图形（基础）">
+						<game name="判断" zsd="轴对称图形">
+						          <intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3s/math/6/2/1/danci1.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="下面的字母哪些可以看作轴对称（基础）">
+						<game name="填空" zsd="轴对称图形">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/6/2/2/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="下面的数字图哪些是轴对称（基础）">
+						<game name="填空" zsd="轴对称图形">
+						          <intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3s/math/6/2/3/danci0.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+					<zsd name="下面图形分别是从哪张纸上剪下来的（巩固）">
+						<game name="选择" zsd="轴对称图形">
+						          <intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3s/math/6/2/4/db.xml" psway="jinsanlian/3s/math" type="D"/>
+						 </game>
+					</zsd>
+				</unit>
+                       </subject>
+		<subject name="下册">
+                               <unit name="第一单元第十课时" path="xt_dir/jinsanlian/3x/math/1/11/yl.doc">
+					<zsd name="算一算，比一比（基础）">
+						<game name="速算" zsd="复习（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/1/11/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name=" 计算（基础）">
+						<game name="速算" zsd="复习（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/1/11/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="复习（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/1/11/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="复习（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/1/11/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="复习（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/1/11/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（提高）">
+						<game name="填空" zsd="复习（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/1/11/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第一单元探索规律" path="xt_dir/jinsanlian/3x/math/1/12/yl.doc">
+					<zsd name="直接写出得数（基础）">
+						<game name="速算" zsd="有趣的乘法计算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/1/12/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算（基础）">
+						<game name="速算" zsd="有趣的乘法计算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/1/12/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="在（）里填上合适的数（基础）">
+						<game name="速算" zsd="复习（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/1/12/3/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="算一算（巩固）">
+						<game name="速算" zsd="有趣的乘法计算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/1/12/4/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第二单元第一课时" path="xt_dir/jinsanlian/3x/math/2/1/yl.doc">
+					<zsd name="填空（基础）">
+						<game name="填空" zsd="认识千米">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/1/1/1/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="在（）里填上“＞”“＜”或“＝”（基础）">
+						<game name="三选一" zsd="认识千米">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/1/1/1/3/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="填上合适的单位（基础）">
+						<game name="三选一" zsd="认识千米">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/1/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="认识千米">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/1/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="认识千米">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/1/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第二单元第二课时" path="xt_dir/jinsanlian/3x/math/2/2/yl.doc">
+					<zsd name="填空（基础）">
+						<game name="填空" zsd="认识吨">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/2/1/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="在（）里填上“＞”“＜”或“＝”（基础）">
+						<game name="三选一" zsd="认识吨">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/2/1/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="在括号里填上合适的单位名称（基础）">
+						<game name="三选一" zsd="认识吨">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/2/1/3/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="认识吨">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/2/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="认识吨">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/2/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3”（巩固）">
+						<game name="三选一" zsd="认识吨">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/2/5/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（提高）">
+						<game name="填空" zsd="认识吨">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/2/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第二单元第三课时" path="xt_dir/jinsanlian/3x/math/2/3/yl.doc">
+					<zsd name="在括号里填上合适的单位名称（基础）">
+						<game name="三选一" zsd="练习三">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/3/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/3/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/3/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="判断（巩固）">
+						<game name="判断" zsd="练习三">
+							<intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3x/math/2/3/4/danci1.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/3/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/3/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题5（提高）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/3/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="在○里填上“＞”“＜”或“＝”（基础）">
+						<game name="三选一" zsd="练习三">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/4/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="在括号里填上合适的单位名称（基础）">
+						<game name="三选一" zsd="练习三">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/2/4/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题6（巩固）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/4/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题7（巩固）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/4/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题8（巩固）">
+						<game name="填空" zsd="练习三">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/2/4/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第三单元第一课时" path="xt_dir/jinsanlian/3x/math/3/1/yl.doc">
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="从问题出发思考的策略（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/1/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="从问题出发思考的策略（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/1/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="从问题出发思考的策略（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/1/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（提高）">
+						<game name="填空" zsd="从问题出发思考的策略（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/1/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第三单元第二课时" path="xt_dir/jinsanlian/3x/math/3/2/yl.doc">
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="从问题出发思考的策略（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/2/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="从问题出发思考的策略（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/2/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="从问题出发思考的策略（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/2/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="填空" zsd="从问题出发思考的策略（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/2/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题5（提高）">
+						<game name="填空" zsd="从问题出发思考的策略（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/2/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第三单元第三课时" path="xt_dir/jinsanlian/3x/math/3/3/yl.doc">
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="练习四（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/3/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（基础）">
+						<game name="填空" zsd="练习四（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/3/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="练习四（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/3/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="填空" zsd="练习四（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/3/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题5（巩固）">
+						<game name="填空" zsd="练习四（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/3/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第三单元第四课时" path="xt_dir/jinsanlian/3x/math/3/4/yl.doc">
+					<zsd name="直接写得数（基础）">
+						<game name="速算" zsd="练习四（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/3/4/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（基础）">
+						<game name="填空" zsd="练习四（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/4/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="练习四（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/4/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（巩固）">
+						<game name="填空" zsd="练习四（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/4/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题4（巩固）">
+						<game name="填空" zsd="练习四（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/4/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题5（提高）">
+						<game name="填空" zsd="练习四（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/3/4/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第四单元第一课时" path="xt_dir/jinsanlian/3x/math/4/1/yl.doc">
+					<zsd name="计算（基础）">
+						<game name="速算" zsd="不含括号的两步混合运算（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/1/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="脱式计算（基础）">
+						<game name="速算" zsd="不含括号的两步混合运算（1）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/1/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="不含括号的两步混合运算（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/1/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="不含括号的两步混合运算（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/1/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="填空" zsd="不含括号的两步混合运算（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/1/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第四单元第二课时" path="xt_dir/jinsanlian/3x/math/4/2/yl.doc">
+					<zsd name="计算1（基础）">
+						<game name="速算" zsd="不含括号的两步混合运算（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/2/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="脱式计算（基础）">
+						<game name="速算" zsd="不含括号的两步混合运算（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/2/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算2（巩固）">
+						<game name="速算" zsd="不含括号的两步混合运算（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/2/3/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="不含括号的两步混合运算（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/2/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（提高）">
+						<game name="填空" zsd="不含括号的两步混合运算（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/2/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题3（提高）">
+						<game name="填空" zsd="不含括号的两步混合运算（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/2/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第四单元第三课时" path="xt_dir/jinsanlian/3x/math/4/3/yl.doc">
+					<zsd name="计算1（基础）">
+						<game name="速算" zsd="含有小括号的两部运算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/3/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="脱式计算（基础）">
+						<game name="速算" zsd="含有小括号的两部运算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/3/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算2（基础）">
+						<game name="速算" zsd="含有小括号的两部运算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/3/3/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="含有小括号的两部运算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/3/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="含有小括号的两部运算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/3/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第四单元第四课时" path="xt_dir/jinsanlian/3x/math/4/4/yl.doc">
+					<zsd name="计算1（基础）">
+						<game name="速算" zsd="练习5">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/4/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="脱式计算（基础）">
+						<game name="速算" zsd="练习5">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/4/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算2（巩固）">
+						<game name="选择" zsd="练习5">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/4/4/3/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="练习5">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/4/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="一题多问" zsd="练习5">
+							<intface name="一题多问" swf="140" txtway="xt_dir/jinsanlian/3x/math/4/4/5/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="填空（提高）">
+						<game name="填空" zsd="练习5">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/4/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第四单元第五课时" path="xt_dir/jinsanlian/3x/math/4/5/yl.doc">
+					<zsd name="脱式计算（基础）">
+						<game name="速算" zsd="练习5（2）">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/5/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题（巩固）">
+						<game name="填空" zsd="练习5（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/5/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题1（巩固）">
+						<game name="填空" zsd="练习5（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/5/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="解决实际问题2（巩固）">
+						<game name="填空" zsd="练习5（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/5/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="计算（巩固）">
+						<game name="填空" zsd="练习5（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/4/5/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第四单元第六课时" path="xt_dir/jinsanlian/3x/math/4/6/yl.doc">
+					<zsd name="速算（基础）">
+						<game name="速算" zsd="算“24点”">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/6/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="脱式计算（基础）">
+						<game name="速算" zsd="算“24点”">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/4/6/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第五单元第一课时" path="xt_dir/jinsanlian/3x/math/5/1/yl.doc">
+					<zsd name="p27第1题（基础）">
+						<game name="填空" zsd="认识年月日">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/1/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p27第2题（基础）">
+						<game name="填空" zsd="认识年月日">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/1/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p27第3题（基础）">
+						<game name="连线" zsd="认识年月日">
+							<intface name="记事本" swf="30" txtway="xt_dir/jinsanlian/3x/math/5/1/3/key.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p27第6题（提高）">
+						<game name="选择" zsd="认识年月日">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/5/1/6/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第五单元第二课时" path="xt_dir/jinsanlian/3x/math/5/2/yl.doc">
+					<zsd name="p28第1题（基础）">
+						<game name="填空" zsd="认识平年和闰年">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/2/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p28第3题（巩固）">
+						<game name="填空" zsd="认识平年和闰年">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/2/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p28第4题（巩固）">
+						<game name="填空" zsd="认识平年和闰年">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/2/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p28第5题（巩固）">
+						<game name="填空" zsd="认识平年和闰年">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/2/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第五单元第三课时" path="xt_dir/jinsanlian/3x/math/5/3/yl.doc">
+					<zsd name="p29第2题（巩固）">
+						<game name="判断" zsd="练习六">
+							<intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3x/math/5/3/2/danci1.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p29第3题（巩固）">
+						<game name="选择" zsd="练习六">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/3/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p29第4题（提高）">
+						<game name="选择" zsd="练习六">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/3/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p30第1题（基础）">
+						<game name="选择" zsd="练习六">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/5/4/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p30第2题（基础）">
+						<game name="填空" zsd="练习六">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/4/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p30第3题（基础）">
+						<game name="填空" zsd="练习六">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/4/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p30第4题（基础）">
+						<game name="填空" zsd="练习六">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/4/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p30第6题（基础）">
+						<game name="填空" zsd="练习六">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/5/4/6/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p30第8题（基础）">
+						<game name="填空" zsd="练习六">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/4/8/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第五单元第四课时" path="xt_dir/jinsanlian/3x/math/5/4/yl.doc">
+					<zsd name="p31第1题（基础）">
+						<game name="填空" zsd="二十四小时记忆法">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/5/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p31第2题（基础）">
+						<game name="选择" zsd="二十四小时记忆法">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/5/5/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p31第5题（巩固）">
+						<game name="一题多问" zsd="二十四小时记忆法">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/5/5/5/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p31第6题（巩固）">
+						<game name="一题多问" zsd="二十四小时记忆法">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/5/5/6/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p31第7题（巩固）">
+						<game name="填空" zsd="二十四小时记忆法">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/5/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第五单元第五课时" path="xt_dir/jinsanlian/3x/math/5/5/yl.doc">
+					<zsd name="p32第1题（基础）">
+						<game name="填空" zsd="简单的时间计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/6/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p32第2题（基础）">
+						<game name="填空" zsd="简单的时间计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/6/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p32第3题（基础）">
+						<game name="填空" zsd="简单的时间计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/6/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p32第4题（巩固）">
+						<game name="选择" zsd="简单的时间计算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/5/6/4/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p32第6题（巩固）">
+						<game name="填空" zsd="简单的时间计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/6/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p32第7题（巩固）">
+						<game name="填空" zsd="简单的时间计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/6/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p32第8题（提高）">
+						<game name="填空" zsd="简单的时间计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/6/8/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第五单元第六课时" path="xt_dir/jinsanlian/3x/math/5/6/yl.doc">
+					<zsd name="p33第1题（基础）">
+						<game name="填空" zsd="求简单的经过时间">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/7/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p33第3题（基础）">
+						<game name="填空" zsd="求简单的经过时间">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/7/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p33第4题（基础）">
+						<game name="判断" zsd="求简单的经过时间">
+							<intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3x/math/5/7/4/danci1.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p33第6题（基础）">
+						<game name="填空" zsd="求简单的经过时间">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/7/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p33第7题（基础）">
+						<game name="填空" zsd="求简单的经过时间">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/5/7/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第一课时" path="xt_dir/jinsanlian/3x/math/6/1/yl.doc">
+					<zsd name="p34第1题（基础）">
+						<game name="填空" zsd="面积的含义">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/1/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p34第2题（基础）">
+						<game name="选择" zsd="面积的含义">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/1/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p34第4题（基础）">
+						<game name="填空" zsd="面积的含义">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/1/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第二课时" path="xt_dir/jinsanlian/3x/math/6/2/yl.doc">
+					<zsd name="p35第1题（基础）">
+						<game name="选择" zsd="面积的单位">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/2/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p35第3题（基础）">
+						<game name="选择" zsd="面积的单位">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/2/3/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p35第4题（巩固）">
+						<game name="填空" zsd="面积的单位">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/2/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第三课时" path="xt_dir/jinsanlian/3x/math/6/3/yl.doc">
+					<zsd name="p36第2题（基础）">
+						<game name="选择" zsd="练习8">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/3/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p36第3题（基础）">
+						<game name="填空" zsd="练习8">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/3/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p36第4题（基础）">
+						<game name="选择" zsd="练习8">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/3/4/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p36第7题（巩固）">
+						<game name="填空" zsd="练习8">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/3/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第四课时" path="xt_dir/jinsanlian/3x/math/6/4/yl.doc">
+					<zsd name="p37第1题（基础）">
+						<game name="填空" zsd="面积的计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/4/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p37第2题（基础）">
+						<game name="填空" zsd="面积的计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/4/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p37第3题（基础）">
+						<game name="填空" zsd="面积的计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/4/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p37第4题（基础）">
+						<game name="填空" zsd="面积的计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/4/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p37第5题（巩固）">
+						<game name="填空" zsd="面积的计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/4/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p37第6题（巩固）">
+						<game name="填空" zsd="面积的计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/4/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p37第7题（巩固）">
+						<game name="填空" zsd="面积的计算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/4/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第五课时" path="xt_dir/jinsanlian/3x/math/6/5/yl.doc">
+					<zsd name="p38第1题（基础）">
+						<game name="填空" zsd="面积的计算练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/5/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p38第2题（基础）">
+						<game name="填空" zsd="面积的计算练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/5/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p38第3题（基础）">
+						<game name="一题多问" zsd="面积的计算练习">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/6/5/3/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p38第4题（巩固）">
+						<game name="填空" zsd="面积的计算练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/5/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p38第5题（巩固）">
+						<game name="填空" zsd="面积的计算练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/5/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p38第6题（巩固）">
+						<game name="填空" zsd="面积的计算练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/5/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第六课时" path="xt_dir/jinsanlian/3x/math/6/6/yl.doc">
+					<zsd name="p39第1题（基础）">
+						<game name="填空" zsd="面积单位间的进率">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/6/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p39第2题（基础）">
+						<game name="选择" zsd="面积单位间的进率">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/6/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p39第3题（巩固）">
+						<game name="判断" zsd="面积单位间的进率">
+							<intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3x/math/6/6/3/danci1.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p39第4题（巩固）">
+						<game name="填空" zsd="面积单位间的进率">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/6/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p39第5题（巩固）">
+						<game name="填空" zsd="面积单位间的进率">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/6/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p39第6题（巩固）">
+						<game name="填空" zsd="面积单位间的进率">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/6/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p39第7题（提高）">
+						<game name="填空" zsd="面积单位间的进率">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/6/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第七课时" path="xt_dir/jinsanlian/3x/math/6/7/yl.doc">
+					<zsd name="p40第1题（1-2）（基础）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/7/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p40第1题（3）（基础）">
+						<game name="选择" zsd="练习九">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/7/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p40第2题（基础）">
+						<game name="选择" zsd="练习九">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/7/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p40第3题（基础）">
+						<game name="一题多问" zsd="练习九">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/6/7/3/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p40第4题（巩固）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/7/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p40第5题（巩固）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/7/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p40第6题（提高）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/7/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p41第1题（基础）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/8/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p41第3题（巩固）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/8/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p41第5题（巩固）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/8/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p41第6题（巩固）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/8/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p41第7题（提高）">
+						<game name="填空" zsd="练习九">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/8/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第八课时" path="xt_dir/jinsanlian/3x/math/6/8/yl.doc">
+					<zsd name="p42第1题（基础）">
+						<game name="选择" zsd="复习（1）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/9/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第2题（基础）">
+						<game name="填空" zsd="复习（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/9/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第3题（基础）">
+						<game name="填空" zsd="复习（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/9/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第4题（基础）">
+						<game name="填空" zsd="复习（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/9/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第5题（基础）">
+						<game name="填空" zsd="复习（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/9/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第6题（基础）">
+						<game name="填空" zsd="复习（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/9/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第7题（巩固）">
+						<game name="选择" zsd="复习（1）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/9/7/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第8题（巩固）">
+						<game name="一题多问" zsd="复习（1）">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/6/9/8/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p42第9题（提高）">
+						<game name="填空" zsd="复习（1）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/9/9/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第六单元第九课时" path="xt_dir/jinsanlian/3x/math/6/10/yl.doc">
+					<zsd name="p43第1题（基础）">
+						<game name="选择" zsd="复习（2）">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/6/10/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p43第3题（巩固）">
+						<game name="一题多问" zsd="复习（2）">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/6/10/3/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p43第4题（巩固）">
+						<game name="填空" zsd="复习（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/10/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p43第5题（巩固）">
+						<game name="填空" zsd="复习（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/10/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p43第6题（提高）">
+						<game name="填空" zsd="复习（2）">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/6/10/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第七单元第一课时" path="xt_dir/jinsanlian/3x/math/7/1/yl.doc">
+					<zsd name="p44第1题（基础）">
+						<game name="填空" zsd="认识一个整体的几分之一">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/1/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p44第2题（基础）">
+						<game name="填空" zsd="认识一个整体的几分之一">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/1/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p44第5题（提高）">
+						<game name="填空" zsd="认识一个整体的几分之一">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/1/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第七单元第二课时" path="xt_dir/jinsanlian/3x/math/7/2/yl.doc">
+					<zsd name="p45第1题（基础）">
+						<game name="填空" zsd="求一个数的几分之一是多少">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/2/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第七单元第三课时" path="xt_dir/jinsanlian/3x/math/7/3/yl.doc">
+					<zsd name="p44第3题（基础）">
+						<game name="一题多问" zsd="认识一个整体的几分之几">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/7/1/3/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p46第1题（基础）">
+						<game name="填空" zsd="认识一个整体的几分之几">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/3/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p46第3题（巩固）">
+						<game name="填空" zsd="认识一个整体的几分之几">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/3/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p46第4题（巩固）">
+						<game name="连线" zsd="认识一个整体的几分之几">
+							<intface name="记事本" swf="30" txtway="xt_dir/jinsanlian/3x/math/7/3/4/key.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p46第5题（巩固）">
+						<game name="填空" zsd="认识一个整体的几分之几">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/3/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p46第6题（提高）">
+						<game name="填空" zsd="认识一个整体的几分之几">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/3/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第七单元第四课时" path="xt_dir/jinsanlian/3x/math/7/4/yl.doc">
+					<zsd name="p47第1题（基础）">
+						<game name="填空" zsd="求一个整体的几分之几的练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/4/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p47第3题（基础）">
+						<game name="填空" zsd="求一个整体的几分之几的练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/4/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p47第4题（巩固）">
+						<game name="一题多问" zsd="求一个整体的几分之几的练习">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/7/4/4/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p47第5题（巩固）">
+						<game name="填空" zsd="求一个整体的几分之几的练习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/4/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p47第6题（提高）">
+						<game name="一题多问" zsd="求一个整体的几分之几的练习">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/7/4/6/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第七单元第五课时" path="xt_dir/jinsanlian/3x/math/7/5/yl.doc">
+					<zsd name="p48第1题（基础）">
+						<game name="填空" zsd="求一个整体的几分之几的简单实际应用">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/5/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p48第2题（基础）">
+						<game name="填空" zsd="求一个整体的几分之几的简单实际应用">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/5/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p48第3题（巩固）">
+						<game name="填空" zsd="求一个整体的几分之几的简单实际应用">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/5/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p48第4题（巩固）">
+						<game name="一题多问" zsd="求一个整体的几分之几的简单实际应用">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/7/5/4/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p48第5题（巩固）">
+						<game name="填空" zsd="求一个整体的几分之几的简单实际应用">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/5/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p48第6题（提高）">
+						<game name="填空" zsd="求一个整体的几分之几的简单实际应用">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/5/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第七单元第六课时" path="xt_dir/jinsanlian/3x/math/7/6/yl.doc">
+					<zsd name="p49第1题（基础）">
+						<game name="填空" zsd="练习十">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/6/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p49第2题（基础）">
+						<game name="填空" zsd="练习十">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/6/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p49第4题（基础）">
+						<game name="填空" zsd="练习十">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/6/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p49第5题（巩固）">
+						<game name="填空" zsd="练习十">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/6/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p49第7题（巩固）">
+						<game name="填空" zsd="练习十">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/6/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p49第8题（提高）">
+						<game name="填空" zsd="练习十">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/6/8/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p50第2题（基础）">
+						<game name="选择" zsd="练习十">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/7/7/2/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p50第3题（巩固）">
+						<game name="填空" zsd="练习十">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/7/7/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第八单元第一课时" path="xt_dir/jinsanlian/3x/math/8/1/yl.doc">
+					<zsd name="p51第2题（基础）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/1/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p51第3题（基础）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/1/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p51第4题（基础）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/1/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p51第6题（基础）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/1/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p51第7题（提高）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/1/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第八单元第二课时" path="xt_dir/jinsanlian/3x/math/8/2/yl.doc">
+					<zsd name="p52第1题（基础）">
+						<game name="选择" zsd="小数的大小比较">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/8/2/1/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p52第3题（基础）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/2/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p52第5题（巩固）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/2/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p52第6题（巩固）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/2/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p52第7题（提高）">
+						<game name="填空" zsd="小数的大小比较">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/2/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第八单元第三课时" path="xt_dir/jinsanlian/3x/math/8/3/yl.doc">
+					<zsd name="p53第1题（基础）">
+						<game name="速算" zsd="简单的小数加减法">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/8/3/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p53第2题（基础）">
+						<game name="判断" zsd="简单的小数加减法">
+							<intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3x/math/8/3/2/danci1.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p53第3题（基础）">
+						<game name="填空" zsd="简单的小数加减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/3/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p53第6题（巩固）">
+						<game name="填空" zsd="简单的小数加减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/3/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p53第7题（提高）">
+						<game name="填空" zsd="简单的小数加减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/3/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第八单元第四课时" path="xt_dir/jinsanlian/3x/math/8/4/yl.doc">
+					<zsd name="p54第1题（基础）">
+						<game name="填空" zsd="练习十一">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/4/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p54第3题（基础）">
+						<game name="速算" zsd="练习十一">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/8/4/3/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p54第4题（基础）">
+						<game name="判断" zsd="练习十一">
+							<intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3x/math/8/4/4/danci1.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p54第5题（巩固）">
+						<game name="填空" zsd="练习十一">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/8/4/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p54第7题（提高）">
+						<game name="选择" zsd="练习十一">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/8/4/7/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第九单元第一课时" path="xt_dir/jinsanlian/3x/math/9/1/yl.doc">
+					<zsd name="p55第1题（基础）">
+						<game name="速算" zsd="简单的数据汇总">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/9/1/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p55第5题（提高）">
+						<game name="选择" zsd="简单的数据汇总">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/9/1/5/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第九单元第二课时" path="xt_dir/jinsanlian/3x/math/9/2/yl.doc">
+					<zsd name="p56第1题（基础）">
+						<game name="速算" zsd="简单的数据排序和分组">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/9/2/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第九单元第三课时" path="xt_dir/jinsanlian/3x/math/9/3/yl.doc">
+					<zsd name="p57第3题（巩固）">
+						<game name="一题多问" zsd="练习十二">
+							<intface name="记事本" swf="140" txtway="xt_dir/jinsanlian/3x/math/9/3/3/dtdxt.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p57第4题（提高）">
+						<game name="填空" zsd="练习十二">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/9/3/4/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第九单元第四课时" path="xt_dir/jinsanlian/3x/math/9/4/yl.doc">
+					<zsd name="p58第3题（提高）">
+						<game name="填空" zsd="综合与实践">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/9/4/3/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第十单元第一课时" path="xt_dir/jinsanlian/3x/math/10/1/yl.doc">
+					<zsd name="p59第1题（基础）">
+						<game name="速算" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/10/1/1/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p59第2题（基础）">
+						<game name="速算" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/10/1/2/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p59第3题（基础）">
+						<game name="速算" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/10/1/3/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p59第4题（基础）">
+						<game name="判断" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="12" txtway="xt_dir/jinsanlian/3x/math/10/1/4/danci1.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p59第5题（基础）">
+						<game name="填空" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/1/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p59第6题（基础）">
+						<game name="填空" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/1/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p59第7题（巩固）">
+						<game name="选择" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/10/1/7/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p59第8题（提高）">
+						<game name="速算" zsd="两位数和两位数两步混合运算">
+							<intface name="记事本" swf="60" txtway="xt_dir/jinsanlian/3x/math/10/1/8/susuan.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第十单元第二课时" path="xt_dir/jinsanlian/3x/math/10/2/yl.doc">
+					<zsd name="p60第2题（巩固）">
+						<game name="填空" zsd="年月日和千米吨的复习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/2/2/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p60第3题（巩固）">
+						<game name="选择" zsd="年月日和千米吨的复习">
+							<intface name="记事本" swf="02" txtway="xt_dir/jinsanlian/3x/math/10/2/3/db.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第十单元第三课时" path="xt_dir/jinsanlian/3x/math/10/3/yl.doc">
+					<zsd name="p60第5题（巩固）">
+						<game name="填空" zsd="分数，小数的初步认识复习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/2/5/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第十单元第四课时" path="xt_dir/jinsanlian/3x/math/10/4/yl.doc">
+					<zsd name="p61第1题（基础）">
+						<game name="填空" zsd="长方形和正方形的面积复习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/3/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p61第6题（巩固）">
+						<game name="填空" zsd="长方形和正方形的面积复习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/3/6/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+					<zsd name="p61第7题（提高）">
+						<game name="填空" zsd="长方形和正方形的面积复习">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/3/7/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                               <unit name="第十单元第五课时" path="xt_dir/jinsanlian/3x/math/10/5/yl.doc">
+					<zsd name="p62第1题（基础）">
+						<game name="填空" zsd="应用广角">
+							<intface name="记事本" swf="20" txtway="xt_dir/jinsanlian/3x/math/10/4/1/danci0.xml" psway="jinsanlian/3x/math" type="D"/>
+	 					</game>	
+					</zsd>
+				</unit>          
+                       </subject>
+</grade>
+</txt>

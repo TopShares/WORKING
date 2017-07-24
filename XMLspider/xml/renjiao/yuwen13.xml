@@ -1,0 +1,18 @@
+﻿<txt>
+<grade name="">
+		<subject name="上册">
+				<unit name="单 元">	
+					<zsd name="学习内容">
+						<game name="题 型">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/chinese/py/1/a/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/1s/chinese/py/1/a/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/1s/chinese/py/1/a/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>
+						<game name="手写输入">
+							<intface name="手写输入" swf="shouxie" txtway="xt_dir/1s/chinese/py/1/a/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>
+					</zsd>
+				</unit>
+          </subject>			
+</grade>
+</txt>

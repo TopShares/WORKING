@@ -1,0 +1,3250 @@
+﻿<txt>
+<grade name="">	
+	<subject name="上册">
+				<unit name="第一单元">	
+                          <zsd name="P2练一练1">
+                               <game name="选择" zsd="认识负数1">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/1/p2/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P5练一练1">
+                               <game name="判断" zsd="负数的初步认识">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/1/p5/1/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>	
+			          </zsd>
+					  <zsd name="P5练一练2">
+                               <game name="选择" zsd="负数的初步认识">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/1/p5/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P5练一练4">
+                          		<game name="连线" zsd="负数的初步认识">
+                      		  <intface name="记事本" swf="30" txtway="xt_dir/5s/math/1/p5/4/key/key.xml" psway="5s/math" type="D"/>
+                         			 </game>
+					</zsd>
+					<zsd name="P5练一练5">
+					<game name="选择" zsd="负数的初步认识">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/1/p5/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+					</game>	
+			           </zsd>
+				</unit>
+				<unit name="第一单元课堂练习">
+					<zsd name="课堂练习1-1">
+					<game name="判断" zsd="认识负数1">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/1/1/1/danci1.xml" psway="5s/math" type="D"/>
+					</game>
+					 </zsd>
+					<zsd name="课堂练习1-2">
+					 <game name="选择" zsd="认识负数1">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/1/1/2/db.xml" psway="5s/math" type="D"/>
+					</game>
+					 </zsd>
+					<zsd name="课堂练习2-1">
+					<game name="连线" zsd="负数的初步认识">
+					<intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/1/2/1/key.xml" psway="5s/math" type="D"/>
+					</game>
+					</zsd>
+					<zsd name="课堂练习2-2">
+					<game name="选择" zsd="负数的初步认识">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/1/2/2/db.xml" psway="5s/math" type="D"/>
+					</game>
+			           </zsd>	
+				</unit>
+				<unit name="第二单元">	
+					<zsd name="P8练一练1">
+                               <game name="填空" zsd="三角形面积的计算">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p8/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P10练一练1">
+                               <game name="填空" zsd="三角形面积的计算">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p10/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P10练一练2">
+                               <game name="填空" zsd="三角形面积的计算">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p10/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P11练习二2">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p11/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>    
+					<zsd name="P11练习二3">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p11/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>          
+					<zsd name="P11练习二4">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p11/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>    
+                         <zsd name="P11练习二5">
+                               <game name="选择" zsd="多边形的面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p11/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>        
+					<zsd name="P11练习二6">
+						<game name="速算" zsd="多边形的面积">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/2/p11/6/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P11练习二8">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p11/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>    
+					<zsd name="P11练习二9">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p11/9/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>    
+					<zsd name="P11练习二10">
+						<game name="速算" zsd="认识平方千米">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/2/p11/10/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P11练习二13">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p11/13/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>    
+                         <zsd name="P11练习二14">
+                               <game name="选择" zsd="多边形的面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p11/14/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd> 
+                         <zsd name="P11练习二17">
+                               <game name="选择" zsd="多边形的面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p11/17/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P16练一练1">
+                               <game name="选择" zsd="认识公顷">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p16/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd> 
+					<zsd name="P17练一练1">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p17/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P17练一练2">
+                               <game name="填空" zsd="认识平方千米">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p17/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P18练习三2">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p18/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P18练习三3">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p18/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P18练习三4">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P18练习三6">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P18练习三7">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p18/7/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P18练习三8">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P18练习三9">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p18/9/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P18练习三10">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/10/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P18练习三11">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/11/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P18练习三12">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/12/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P18练习三13">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/13/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P18练习三15">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p18/15/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P18练习三16">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p18/16/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P21练一练1">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p21/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P23练习四1">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p23/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P23练习四2">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p23/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P23练习四3">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p23/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P23练习四4">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p23/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P23练习四5">
+                               <game name="选择"  zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p23/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P23练习四6">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p23/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P23练习四7">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p23/7/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P25整理复习2">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p25/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P25整理复习4">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p25/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P25整理复习5">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p25/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P25整理复习6">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p25/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P25整理复习7">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/2/p25/7/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P25整理复习8">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p25/8/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P25整理复习9">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p25/9/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P25整理复习10">
+                               <game name="选择" zsd="多边形面积">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/2/p25/10/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+				</unit>
+				<unit name="第二单元课堂练习">
+					<zsd name="课堂练习1-1">
+					<game name="判断" zsd="平形四边形面积的计算">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/2/1/1/danci1.xml" psway="5s/math" type="D"/>
+					 </game>
+					</zsd>
+					 <zsd name="课堂练习2-1">
+					<game name="选择" zsd="三角形面积的计算">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/2/2/1/db.xml" psway="5s/math" type="D"/>
+					</game>
+			           </zsd>
+					<zsd name="课堂练习2-2">
+					<game name="判断" zsd="三角形面积的计算">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/2/2/2/danci1.xml" psway="5s/math" type="D"/>
+					</game>
+			          </zsd>
+					<zsd name="课堂练习3-1">
+					<game name="判断" zsd="梯形面积的计算">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/2/3/1/danci1.xml" psway="5s/math" type="D"/>
+					</game>
+			          </zsd>
+					<zsd name="课堂练习3-2">
+			        <game name="选择" zsd="梯形面积的计算">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/2/3/2/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			           </zsd>	
+				</unit>
+				<unit name="第三单元">	
+					<zsd name="P32练一练1">
+                               <game name="判断" zsd="小数的意义和读写方法">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/3/p32/1/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>	
+			          </zsd>
+					<zsd name="P34练一练1">
+                               <game name="填空" zsd="小数的意义和读写方法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p34/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P34练一练2">
+                               <game name="选择" zsd="小数的意义和读写方法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p34/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P35练习五1">
+                               <game name="判断" zsd="小数的意义和性质">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/3/p35/1/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>	
+			          </zsd>
+					<zsd name="P35练习五2">
+                               <game name="判断" zsd="小数的意义和性质">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/3/p35/2/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>	
+			          </zsd>
+                        <zsd name="P35练习五3">
+                                   <game name="连线" zsd="小数的意义和性质">
+	                       <intface name="记事本" swf="30" txtway="xt_dir/5s/math/3/p35/3/key/key.xml" psway="5s/math" type="D"/>
+                                  </game>
+			          </zsd>
+					<zsd name="P35练习五4">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p35/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                        <zsd name="P35练习五5">
+                                   <game name="连线" zsd="小数的意义和性质">
+	                       <intface name="记事本" swf="30" txtway="xt_dir/5s/math/3/p35/5/key/key.xml" psway="5s/math" type="D"/>
+                                  </game>
+			          </zsd>
+					<zsd name="P35练习五6">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p35/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P35练习五6">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p35/8/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P35练习五9">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p35/9/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P39练一练2">
+                               <game name="判断" zsd="小数的性质和大小比较">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/3/p39/2/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>	
+			          </zsd>
+                         <zsd name="P39练一练3">
+                               <game name="选择" zsd="小数的性质和大小比较">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p39/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                        <zsd name="P40练习六1">
+                                   <game name="连线" zsd="小数的意义和性质">
+	                       <intface name="记事本" swf="30" txtway="xt_dir/5s/math/3/p40/1/key/key.xml" psway="5s/math" type="D"/>
+                                  </game>
+			          </zsd>
+					<zsd name="P40练习六2">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p40/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P40练习六3">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p40/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P40练习六5">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p40/5/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P40练习六6">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p40/6/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P40练习六8">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p40/8/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P40练习六9">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p40/9/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P40练习六10">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p40/10/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P43练一练1">
+                               <game name="填空" zsd="用“万”“亿”作单位的小数表示大数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p43/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P43练一练2">
+                               <game name="填空" zsd="求小数的近似数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p43/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="第六课时练习3">
+                               <game name="判断" zsd="求小数的近似数">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/dylx3/4/1/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>	
+
+					<zsd name="P44练习七1">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p44/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P44练习七1">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p44/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P44练习七2">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p44/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P44练习七3">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p44/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P44练习七4">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p44/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P44练习七5">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p44/5/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P44练习六6">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p44/6/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P44练习六7">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p44/7/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P44练习七7">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p44/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P46整理和复习3">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p46/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P46整理和复习6">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p46/6/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P46整理和复习7">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/3/p46/7/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P46整理和复习8">
+                               <game name="填空" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/3/p46/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="单元复习练习1">
+                               <game name="判断" zsd="小数的意义和性质">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/dylx3/6/1/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="单元复习练习2">
+                               <game name="选择" zsd="小数的意义和性质">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/dylx3/6/2/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			           </zsd>
+					<zsd name="单元复习练习3">
+                               <game name="填空" zsd="多边形面积">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/dylx3/6/3/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>	
+				</unit>
+				<unit name="第三单元课堂练习">	
+					<zsd name="课堂练习1-1">
+						<game name="连线" zsd="小数的意义和读写方法">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/3/1/1/key.xml" psway="5s/math" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="课堂练习2-1">
+						<game name="连线" zsd="小数的意义和读写方法">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/3/2/1/key.xml" psway="5s/math" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="课堂练习2-2">
+					 <game name="选择" zsd="小数的意义和读写方法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/3/2/2/db.xml" psway="5s/math" type="D"/>
+					 </game>
+			           </zsd>
+			           <zsd name="课堂练习3-1">
+					<game name="选择" zsd="小数的性质和大小比较">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/3/3/1/db.xml" psway="5s/math" type="D"/>
+					 </game>
+			           </zsd>
+					<zsd name="课堂练习5-1">
+					<game name="判断" zsd="用“万”“亿”作单位的小数表示大数">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/3/5/1/danci1.xml" psway="5s/math" type="D"/>
+					 </game>
+					</zsd>
+					<zsd name="课堂练习5-2">
+						<game name="连线" zsd="用“万”“亿”作单位的小数表示大数">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/3/5/2/key.xml" psway="5s/math" type="D"/>
+						</game>
+					</zsd>
+					<zsd name="课堂练习6-1">
+					 <game name="判断" zsd="小数的意义和性质">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/3/6/1/danci1.xml" psway="5s/math" type="D"/>
+					</game>
+					 </zsd>
+					<zsd name="课堂练习6-2">
+						<game name="连线" zsd="小数的意义和性质">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/3/6/2/key.xml" psway="5s/math" type="D"/>
+						</game>
+					</zsd>
+				</unit>
+				<unit name="第四单元">	
+					<zsd name="P49想想做做1">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p49/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P49想想做做2">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p49/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P50练习八1">
+						<game name="速算" zsd="小数加法和减法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/4/p50/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P50练习八2">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p50/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P50练习八3">
+                               <game name="选择" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/4/p50/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P50练习八5">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p50/5/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P50练习八6">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p50/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P50练习八7">
+						<game name="速算" zsd="小数加法和减法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/4/p50/7/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P50练习八8">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p50/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P50练习八9">
+                               <game name="选择" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/4/p50/9/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P50练习八10">
+                               <game name="选择" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/4/p50/10/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P50练习八11">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p50/11/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P50练习八12">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p50/12/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P52想想做做1">
+						<game name="速算" zsd="小数加法和减法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/4/p52/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P53练习九1">
+						<game name="速算" zsd="小数加法和减法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/4/p53/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P53练习九4">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p53/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P53练习九5">
+						<game name="速算" zsd="小数加法和减法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/4/p53/5/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P53练习九6">
+						<game name="速算" zsd="小数加法和减法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/4/p53/6/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+                               <zsd name="P53练习九7">
+                               <game name="填空" zsd="小数加法和减法">
+                                <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p53/7/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P53练习九8">
+                               <game name="填空" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/4/p53/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+			           </unit>
+				<unit name="第四单元课堂练习">
+                                 <zsd name="课堂练习1-1">
+                               <game name="选择" zsd="小数加法和减法">
+                                <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/4/1/1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			           </zsd>
+                               <zsd name="课堂练习2-1">
+                               <game name="填空" zsd="小数加法和减法">
+                                 <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/4/2/1/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                               <zsd name="课堂练习2-2">
+                               <game name="连线" zsd="负数的初步认识">
+                               <intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/4/2/2/key.xml" psway="5s/math" type="D"/>
+                               </game>
+                               </zsd>
+                               <zsd name="课堂练习2-3">
+                               <game name="选择" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/4/2/3/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			           </zsd>
+                         <zsd name="课堂练习3-1">
+                               <game name="选择" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/4/3/1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			           </zsd>
+			           </unit>
+				<unit name="期中复习">	
+                 	   <zsd name="期中复习A选择1">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/A/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>	
+					<zsd name="期中复习A判断">
+					<game name="判断" zsd="期中复习">
+						<intface name="记事本" swf="12" txtway="xt_dir/5s/math/qizhong/A/3/basket/danci1.xml" psway="5s/math" type="D"/>
+                              </game>	
+					</zsd>
+                      <zsd name="期中复习A填空">
+                               <game name="填空" zsd="期中复习">
+                            <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qizhong/A/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                        </game>
+                    </zsd>
+                 	   <zsd name="期中复习A选择2">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/A/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>	
+                 	   <zsd name="期中复习B选择1">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/B/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>	
+                 	   <zsd name="期中复习B选择2">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/B/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>	
+					<zsd name="期中复习B判断3">
+					<game name="判断" zsd="期中复习">
+						<intface name="记事本" swf="12" txtway="xt_dir/5s/math/qizhong/B/3/basket/danci1.xml" psway="5s/math" type="D"/>
+                              </game>	
+					</zsd>
+                      <zsd name="期中复习B填空4">
+                               <game name="填空" zsd="期中复习">
+                            <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qizhong/B/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                        </game>
+                    </zsd>
+                 	   <zsd name="期中复习B选择5">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/B/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>
+                 	   <zsd name="期中复习C选择1">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/C/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>
+					<zsd name="期中复习C判断">
+					<game name="判断" zsd="期中复习">
+						<intface name="记事本" swf="12" txtway="xt_dir/5s/math/qizhong/C/2/basket/danci1.xml" psway="5s/math" type="D"/>
+                              </game>	
+					</zsd>
+                 	   <zsd name="期中复习C选择2">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/C/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>	
+                      <zsd name="期中复习C填空">
+                               <game name="填空" zsd="期中复习">
+                            <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qizhong/C/5/jls/danci0.xml" psway="5s/math" type="D"/>
+                        </game>
+                    </zsd>
+                 	   <zsd name="期中复习C选择3">
+                          <game name="选择" zsd="期中复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qizhong/C/6/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                     </zsd>	
+				</unit>
+				<unit name="第五单元">
+					<zsd name="P56练一练1">
+                               <game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p56/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>	
+					<zsd name="P56练一练2">
+                               <game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p56/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>	
+					<zsd name="P57练一练1">
+                               <game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p57/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>	
+					<zsd name="P57练一练2">
+						<game name="速算" zsd="小数乘整数">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p57/2/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P58练习十1">
+						<game name="速算" zsd="小数乘整数">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p58/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P58练习十2">
+						<game name="速算" zsd="小数乘整数">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p58/2/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+					</zsd>
+					<zsd name="P58练习十3">
+                               <game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p58/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P58练习十4">
+                               <game name="选择" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p58/4/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+						<zsd name="P58练习十5">
+						<game name="速算" zsd="小数乘整数">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p58/5/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>		
+						</zsd>
+					<zsd name="P58练习十6">
+                               <game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p58/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P58练习十7">
+                               <game name="选择" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p58/7/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P58练习十8">
+                               <game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p58/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P60练一练1">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p60/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P61练一练1">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p61/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P61练一练2">
+						<game name="速算" zsd="除数是整数的小数除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p61/2/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>		
+						</zsd>
+						<zsd name="P62练习十一1">
+						<game name="速算" zsd="除数是整数的小数除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p62/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>		
+						</zsd>
+					<zsd name="P62练习十一2">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P62练习十一3">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P62练习十一4">
+						<game name="速算" zsd="除数是整数的小数除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p62/4/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>		
+						</zsd>
+					<zsd name="P62练习十一5">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/5/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P62练习十一6">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P62练习十一7">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/7/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P62练习十一8">
+						<game name="速算" zsd="除数是整数的小数除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p62/8/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+					<zsd name="P62练习十一9">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/9/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P62练习十一10">
+						<game name="速算" zsd="除数是整数的小数除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p62/10/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         <zsd name="P62练习十一11">
+                               <game name="选择" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p62/11/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P62练习十一12">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/12/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P62练习十一13">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/13/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P62练习十一14">
+                               <game name="选择" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p62/14/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P62练习十一15">
+                               <game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p62/15/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P65练一练1">
+                               <game name="判断" zsd="小数乘小数">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/5/p65/1/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>	
+			          </zsd>
+					<zsd name="P65练一练2">
+                               <game name="填空" zsd="小数乘小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p65/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+
+                         <zsd name="P66练一练1">
+                               <game name="选择" zsd="小数乘小数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p66/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P66练一练2">
+                               <game name="填空" zsd="积的近似值">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p66/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P62练习十二1">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p67/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+					<zsd name="P67练习十二2">
+                               <game name="判断" zsd="小数的乘法和除法">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/5/p67/2/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>	
+			          </zsd>
+					<zsd name="P67练习十二3">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p67/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P67练习十二4">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p67/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P67练习十二5">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p67/5/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         <zsd name="P67练习十二6">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p67/6/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P67练习十二7">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p67/7/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P67练习十二8">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p67/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P67练习十二9">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p67/9/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P67练习十二10">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p67/10/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P67练习十二11">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p67/11/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+						<zsd name="P67练习十二12">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p67/12/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P67练习十二13">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p67/13/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P67练习十二14">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p67/14/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         <zsd name="P67练习十二15">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p67/15/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P67练习十二16">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p67/16/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P67练习十二3">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p67/17/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P69练一练1">
+                               <game name="填空" zsd="一个数除以小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p69/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P69练一练2">
+                               <game name="填空" zsd="一个数除以小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p69/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P70练一练1">
+                               <game name="选择" zsd="商的近似值">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p70/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+						<zsd name="P73练习十三1">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p73/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P73练习十三2">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p73/2/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+					<zsd name="P73练习十三4">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p73/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P73练习十三5">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p73/5/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+					<zsd name="P73练习十三6">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p73/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P73练习十三7">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p73/7/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P73练习十三8">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p73/8/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P73练习十三9">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p73/9/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P73练习十三10">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p73/10/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P73练习十三11">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p73/11/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P73练习十三12">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p73/12/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         <zsd name="P73练习十三13">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p73/13/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P73练习十三14">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p73/14/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+                         <zsd name="P73练习十三15">
+                               <game name="选择" zsd="小数乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p73/15/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+				</unit>
+				<unit name="第五单元补充">
+					<zsd name="P73练习十三16">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p73/16/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P76练一练1">
+                               <game name="填空" zsd="小数四则混合运算">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p76/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P76练一练2">
+                               <game name="填空" zsd="小数四则混合运算">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p76/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P77练习十四1">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p77/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P77练习十四2">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p77/2/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P77练习十四3">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p77/3/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+					<zsd name="P77练习十四4">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p77/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P77练习十四5">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p77/5/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P77练习十四6">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p77/6/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P77练习十四7">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p77/7/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         <zsd name="P77练习十四8">
+                               <game name="选择" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p77/8/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P77练习十四9">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p77/9/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P77练习十四10">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p77/10/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P77练习十四12">
+                               <game name="选择" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p77/12/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+						<zsd name="P79整理与练习1">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p79/1/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P79整理与练习2">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p79/2/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P79整理与练习3">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p79/3/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+					<zsd name="P79整理与练习4">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p79/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+                         <zsd name="P79整理与练习5">
+                               <game name="选择" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p79/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+					<zsd name="P79整理与练习6">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p79/6/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P79整理与练习7">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p79/7/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+						<zsd name="P79整理与练习8">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p79/8/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         <zsd name="P79整理与练习9">
+                               <game name="选择" zsd="小数加法和减法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/5/p79/9/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           </zsd>
+						<zsd name="P79整理与练习10">
+						<game name="速算" zsd="小数的乘法和除法">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/5/p79/10/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+					<zsd name="P79整理与练习11">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p79/11/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="P79整理与练习12">
+                               <game name="填空" zsd="小数的乘法和除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/5/p79/12/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+				</unit>
+				<unit name="第五单元课堂练习">
+					<zsd name="课堂练习1-1">
+					<game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/1/1/danci0.xml" psway="5s/math" type="D"/>
+					</game>
+					</zsd>
+					<zsd name="课堂练习1-2">
+					<game name="连线" zsd="小数乘整数">
+					<intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/5/1/2/key.xml" psway="5s/math" type="D"/>
+					</game>
+					</zsd>
+					<zsd name="课堂练习2-1">
+					<game name="填空" zsd="小数乘整数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/2/1/danci0.xml" psway="5s/math" type="D"/>
+					</game>
+					</zsd>
+					<zsd name="课堂练习2-2">
+					<game name="连线" zsd="小数乘整数">
+					<intface name="记事本" swf="30" txtway="xt_dir/5s/math/yls5/5/2/2/key.xml" psway="5s/math" type="D"/>
+					</game>
+					</zsd>	
+					<zsd name="课堂练习3-1">
+					 <game name="选择" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/5/3/1/db.xml" psway="5s/math" type="D"/>
+					</game>	
+					  </zsd>
+					<zsd name="课堂练习4-1">
+					<game name="填空" zsd="除数是整数的小数除法">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/4/1/danci0.xml" psway="5s/math" type="D"/>
+					 </game>
+					</zsd>
+					<zsd name="课堂练习4-2">
+					<game name="判断" zsd="除数是整数的小数除法">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/5/4/2/danci1.xml" psway="5s/math" type="D"/>
+					</game>	
+			          </zsd>
+					<zsd name="课堂练习5-1">
+					<game name="选择" zsd="小数乘小数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/5/5/1/db.xml" psway="5s/math" type="D"/>
+					</game>	
+			           </zsd>
+					<zsd name="课堂练习5-2">
+					<game name="填空" zsd="小数乘小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/5/2/danci0.xml" psway="5s/math" type="D"/>
+					 </game>
+			          </zsd>
+					<zsd name="课堂练习6-1">
+                               <game name="填空" zsd="小数乘小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/6/1/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="课堂练习6-2">
+                               <game name="填空" zsd="小数乘小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/6/2/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="课堂练习7-1">
+                               <game name="填空" zsd="积的近似值">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/7/1/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					<zsd name="课堂练习8-1">
+					<game name="选择" zsd="积的近似值">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/5/8/1/db.xml" psway="5s/math" type="D"/>
+					</game>	
+			           </zsd>
+					<zsd name="课堂练习9-1">
+					<game name="填空" zsd="一个数除以小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/9/1/danci0.xml" psway="5s/math" type="D"/>
+					</game>
+					 </zsd>
+					<zsd name="课堂练习9-2">
+					 <game name="填空" zsd="一个数除以小数">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/yls5/5/9/2/danci0.xml" psway="5s/math" type="D"/>
+					 </game>
+			          </zsd>
+					<zsd name="课堂练习10-1">
+					 <game name="选择" zsd="商的近似值">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/5/10/1/db.xml" psway="5s/math" type="D"/>
+					</game>	
+			           </zsd>
+					<zsd name="课堂练习11-1">
+                               <game name="判断" zsd="小数四则混合运算">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/math/yls5/5/11/1/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			          </zsd>
+					 <zsd name="课堂练习11-2">
+					  <game name="选择" zsd="小数四则混合运算">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/yls5/5/11/2/db.xml" psway="5s/math" type="D"/>
+					</game>	
+			           </zsd>
+				</unit>
+				<unit name="第六单元">
+						<zsd name="P87练习十五3">
+						<game name="填空" zsd="统计表和条形统计图二">
+						  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/6/p87/3/jls/danci0.xml" psway="5s/math" type="D"/>
+						 </game>
+						 </zsd>
+						<zsd name="P91练习十六2">
+						 <game name="填空" zsd="统计表和条形统计图二">
+						<intface name="记事本" swf="20" txtway="xt_dir/5s/math/6/p91/2/jls/danci0.xml" psway="5s/math" type="D"/>
+						</game>
+						 </zsd>
+				</unit>
+				<unit name="第七单元">
+                         		<zsd name="P95练一练1">
+                               <game name="选择" zsd="解决问题策略">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/7/p95/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           	</zsd>
+                         		<zsd name="P96练一练1">
+                               <game name="选择" zsd="解决问题策略">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/7/p96/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>	
+			           	</zsd>
+						<zsd name="P97练习十七1">
+                               <game name="填空" zsd="解决问题的策略">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/7/p97/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+						<zsd name="P97练习十七4">
+                               <game name="填空" zsd="解决问题的策略">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/7/p97/4/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>	
+                         		<zsd name="P97练习十七6">
+                               <game name="选择" zsd="解决问题策略">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/7/p97/6/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+						<zsd name="P97练习十七8">
+						<game name="速算" zsd="解决问题策略">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/7/p97/8/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P97练习十七9">
+                               <game name="填空" zsd="解决问题的策略">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/7/p97/9/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P97练习十七12">
+                               <game name="选择" zsd="解决问题策略">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/7/p97/12/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P97练习十七13">
+                               <game name="选择" zsd="解决问题策略">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/7/p97/13/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+				</unit>
+				<unit name="第八单元">	
+                         		<zsd name="P100练一练1">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p100/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P100练一练3">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p100/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P102练一练1">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p102/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P102练一练2">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p102/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P102练一练3">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p102/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P102练一练4">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p102/4/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P103练习十八1">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P103练习十八2">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P103练习十八3">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P103练习十八4">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/4/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P103练习十八5">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+						<zsd name="P103练习十八6">
+						<game name="速算" zsd="用字母表示数">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/8/p103/6/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         		<zsd name="P103练习十八8">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/8/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P103练习十八9">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/9/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P103练习十八11">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p103/11/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P105练一练1">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p105/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>	
+                         		<zsd name="P106练习十九1">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P106练习十九2">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>	
+                         		<zsd name="P106练习十九3">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>	
+                         		<zsd name="P106练习十九4">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/4/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P106练习十九5">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+						<zsd name="P106练习十九6">
+						<game name="速算" zsd="用字母表示数">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/8/p106/6/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                        		<zsd name="P106练习十九7">
+                               <game name="判断" zsd="用字母表示数">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/8/p106/7/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>	
+                        		<zsd name="P106练习十九8">
+                               <game name="判断" zsd="用字母表示数">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/8/p106/8/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>
+                         		<zsd name="P106练习十九9">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/9/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P106练习十九11">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/11/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>	
+                         		<zsd name="P106练习十九12">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/12/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P106练习十九13">
+                               <game name="选择" zsd="用字母表示数">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/p106/13/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                 	  		 <zsd name="单元测试1">
+                          <game name="选择" zsd="用字母表示数">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/c/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd>
+                 	  		 <zsd name="单元测试2">
+                          <game name="选择" zsd="用字母表示数">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/c/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd>
+                 	  		 <zsd name="单元测试3">
+                          <game name="选择" zsd="用字母表示数">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/8/c/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd>
+                        		<zsd name="单元测试4">
+                               <game name="判断" zsd="用字母表示数">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/8/c/4/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>
+				</unit>
+				<unit name="第九单元">	
+                        		<zsd name="P110整理与复习1">
+                               <game name="判断" zsd="总复习">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/9/p110/1/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>
+						<zsd name="P110整理与复习3">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/9/p110/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>	
+                         		<zsd name="P110整理与复习4">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/4/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                        		<zsd name="P110整理与复习6">
+                               <game name="判断" zsd="总复习">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/9/p110/6/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>
+                        		<zsd name="P110整理与复习7">
+                               <game name="判断" zsd="总复习">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/9/p110/7/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>
+						<zsd name="P110整理与复习8">
+						<game name="速算" zsd="总复习">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/9/p110/8/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P110整理与复习9">
+						<game name="速算" zsd="总复习">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/9/p110/9/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+						<zsd name="P110整理与复习10">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/9/p110/10/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+						<zsd name="P110整理与复习11">
+						<game name="速算" zsd="总复习">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/9/p110/11/susuan/susuan.xml" psway="5s/math" type="D"/>
+						</game>	
+						</zsd>
+                         		<zsd name="P110整理与复习12">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/12/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P110整理与复习13">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/13/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P110整理与复习14">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/14/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+						<zsd name="P110整理与复习15">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/9/p110/15/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P110整理与复习16">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/16/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P110整理与复习17">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/17/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P110整理与复习18">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/18/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                         		<zsd name="P110整理与复习19">
+                               <game name="选择" zsd="总复习">
+	                                  <intface name="记事本" swf="02" txtway="xt_dir/5s/math/9/p110/19/mhgz1/db.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+						<zsd name="期末复习Ａ1">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qimoA/1/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                 	  		 <zsd name="期末复习Ａ2">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoA/2/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+						<zsd name="期末复习Ａ3">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qimoA/3/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                        		<zsd name="期末复习Ａ4">
+                               <game name="判断" zsd="总复习">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/qimoA/4/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>
+                 	  		 <zsd name="期末复习Ａ5">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoA/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+						<zsd name="期末复习Ａ6">
+						<game name="速算" zsd="总复习">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/qimoA/6/susuan.txt" psway="5s/math" type="D"/>
+						</game>	
+						</zsd> 
+						<zsd name="期末复习Ａ7">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qimoA/7/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                 	  		 <zsd name="期末复习Ａ8">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoA/8/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+                 	  		 <zsd name="期末复习B1">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoB/1/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+						<zsd name="期末复习B2">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qimoB/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                 	  		 <zsd name="期末复习B3">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoB/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+                        		<zsd name="期末复习B4">
+                               <game name="判断" zsd="总复习">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/math/qimoB/4/basket/danci1.xml" psway="5s/math" type="D"/>
+                               </game>
+			      		</zsd>
+                 	  		 <zsd name="期末复习B5">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoB/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+                 	  		 <zsd name="期末复习B6">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoB/6/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+						<zsd name="期末复习C1">
+						<game name="速算" zsd="总复习">
+							<intface name="记事本" swf="60" txtway="xt_dir/5s/math/qimoC/1/susuan.txt" psway="5s/math" type="D"/>
+						</game>	
+						</zsd> 
+						<zsd name="期末复习C2">
+                               <game name="填空" zsd="总复习">
+	                                  <intface name="记事本" swf="20" txtway="xt_dir/5s/math/qimoC/2/jls/danci0.xml" psway="5s/math" type="D"/>
+                               </game>
+			          		</zsd>
+                 	  		 <zsd name="期末复习C3">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoC/3/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+                 	  		 <zsd name="期末复习C4">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoC/4/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+                 	  		 <zsd name="期末复习C5">
+                          <game name="选择" zsd="总复习">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5s/math/qimoC/5/mhgz1/db.xml" psway="5s/math" type="D"/>
+                          </game>	
+                              </zsd> 
+				</unit>
+          </subject>
+		<subject name="下册">	
+              <unit name="第一单元">
+                      <zsd name="P2练一练1">
+                        <game name="判断" zsd="简易的方程">
+	                  <intface name="记事本" swf="12" txtway="xt_dir/5x/math/1/p2/1/danci1.xml" psway="5x/math" type="D"/>
+                        </game>	
+			        </zsd>
+                 	   <zsd name="P2练一练2">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p2/2/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+					<zsd name="P3练一练1">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p3/1/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P3练一练2">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p3/2/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="简易的方程">
+	         			  <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/1/P2/1/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+					<zsd name="课堂练习2">
+					<game name="连线" zsd="简易的方程">
+					<intface name="记事本" swf="30" txtway="xt_dir/5x/math/yls5/1/P2/3/key.xml" psway="5x/math" type="D"/>
+					 </game>
+					</zsd>	
+					<zsd name="P5练一练1">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p5/1/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 	   <zsd name="P6练习一1">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/1/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一2">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/2/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一3">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/3/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一4">
+                          <game name="速算" zsd="简易的方程">
+                          <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p6/4/susuan.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+					<zsd name="P6练习一5">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p6/5/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 	   <zsd name="P6练习一6">
+                          <game name="速算" zsd="简易的方程">
+                          <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p6/6/susuan.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一7">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/7/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一8">
+                          <game name="速算" zsd="简易的方程">
+                          <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p6/8/susuan.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一9">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/9/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+					<zsd name="P6练习一10">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p6/10/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 	   <zsd name="P6练习一11">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/11/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一12">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/12/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P6练习一13">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p6/13/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P9练一练1">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p9/1/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	   <zsd name="P10练一练1">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p10/1/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+                 	  <zsd name="课堂练习1">
+                 	  <game name="选择" zsd="简易的方程">
+                 	  <intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/1/P4/1/db.xml" psway="5x/math" type="D"/>
+                 	  </game>	
+			     			</zsd>
+                 	  <zsd name="课堂练习2">
+                 	  <game name="填空" zsd="简易的方程">
+                 	  <intface name="记事本" swf="20" txtway="xt_dir/5x/math/yls5/1/P4/2/danci0.xml" psway="5x/math" type="D"/>
+                 	  </game>
+			  	</zsd>
+					<zsd name="P11练习二1">
+                          <game name="速算" zsd="简易的方程">
+	                     <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p11/1/susuan.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P11练习二2">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/2/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P11练习二3">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/3/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P11练习二4">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/4/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P11练习二5">
+                          <game name="速算" zsd="简易的方程">
+	                     <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p11/5/susuan.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 	   <zsd name="P11练习二6">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p11/6/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd> 
+					<zsd name="P11练习二7">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/7/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P11练习二8">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/8/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P11练习二9">
+                          <game name="速算" zsd="简易的方程">
+	                     <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p11/9/susuan.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 	   <zsd name="P11练习二10">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p11/10/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd>
+					<zsd name="P11练习二11">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/11/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+		<zsd name="P11练习二12">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p11/12/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+		<zsd name="P11练习二13">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p11/13/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+					<zsd name="P11练习二14">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/14/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P11练习二15">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p11/15/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 	   <zsd name="P14练一练1">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p14/1/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd>
+		<zsd name="P14练一练2">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p14/2/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+                 	   <zsd name="P15练一练1">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p15/1/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="简易的方程">
+	         			  <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/1/P8/1/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+                 	  <zsd name="课堂练习2">
+                 	  <game name="填空" zsd="简易的方程">
+                 	  <intface name="记事本" swf="20" txtway="xt_dir/5x/math/yls5/1/P8/2/danci0.xml" psway="5x/math" type="D"/>
+                 	  </game>
+			  	</zsd>
+                 	  <zsd name="课堂练习3">
+                 	  <game name="选择" zsd="简易的方程">
+                 	  <intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/1/P9/1/db.xml" psway="5x/math" type="D"/>
+                 	  </game>	
+			     			</zsd>
+                 	   <zsd name="P16练习三1">
+                          <game name="速算" zsd="简易的方程">
+                          <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p16/1/susuan.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd>
+		<zsd name="P16练习三2">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p16/2/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+                 	   <zsd name="P16练习三3">
+                          <game name="选择" zsd="简易的方程">
+                          <intface name="记事本" swf="02" txtway="xt_dir/5x/math/1/p16/3/db.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd>
+					<zsd name="P16练习三4">
+                          <game name=" 速算" zsd="简易的方程">
+	                     <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p16/4/susuan.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三5">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/5/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三6">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/6/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三7">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/7/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三8">
+                          <game name="速算" zsd="简易的方程">
+	                     <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p16/8/susuan.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+		<zsd name="P16练习三9">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p16/9/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+		<zsd name="P16练习三10">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p16/10/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+					<zsd name="P16练习三11">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/11/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三12">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/12/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三13">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/13/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三14">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/14/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P16练习三15">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p16/15/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                         <zsd name="P18整理与练习1">
+                          <game name="判断" zsd="简易的方程">
+	                    <intface name="记事本" swf="12" txtway="xt_dir/5x/math/1/p18/1/danci1.xml" psway="5x/math" type="D"/>
+                                 </game>	
+			               </zsd>
+					<zsd name="P18整理与练习2">
+                          <game name="速算" zsd="简易的方程">
+	                     <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p18/2/susuan.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P18整理与练习3">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p18/3/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P18整理与练习4">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p18/4/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+		<zsd name="P18整理与练习5">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p18/5/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+					<zsd name="P18整理与练习6">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p18/6/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 	   <zsd name="P18整理与练习7">
+                          <game name="速算" zsd="简易的方程">
+                          <intface name="记事本" swf="60" txtway="xt_dir/5x/math/1/p18/7/susuan.xml" psway="5x/math" type="D"/>
+                          </game>	
+                         </zsd>
+		<zsd name="P18整理与练习8">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/1/p18/8/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+					<zsd name="P18整理与练习9">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p18/9/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P18整理与练习10">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p18/10/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P18整理与练习11">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p18/11/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+					<zsd name="P18整理与练习12">
+                          <game name="填空" zsd="简易的方程">
+	                     <intface name="记事本" swf="20" txtway="xt_dir/5x/math/1/p18/12/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			</unit>
+                 <unit name="第二单元">
+				<zsd name="P25练习四1">
+					<game name="选择" zsd="统计图">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/2/p25/1/db.xml" psway="5x/math" type="D"/>
+					</game>	
+				</zsd>
+				<zsd name="P25练习四2">
+					<game name="选择" zsd="统计图">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/2/p25/2/db.xml" psway="5x/math" type="D"/>
+					</game>	
+				</zsd>
+				<zsd name="P25练习四3">
+					<game name="选择" zsd="统计图">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/2/p25/3/db.xml" psway="5x/math" type="D"/>
+					</game>	
+				</zsd>
+				<zsd name="P25练习四4">
+					<game name="选择" zsd="统计图">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/2/p25/4/db.xml" psway="5x/math" type="D"/>
+					</game>	
+				</zsd>
+				<zsd name="P25练习四5">
+					<game name="选择" zsd="统计图">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/2/p25/5/db.xml" psway="5x/math" type="D"/>
+					</game>	
+				</zsd>
+			</unit>
+                 <unit name="第三单元">
+                 <zsd name="P32练一练2">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p32/2/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P32练一练3">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p32/3/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P33练一练1">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p33/1/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P34练一练1">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p34/1/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P34练一练2">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p34/2/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 	  <zsd name="课堂练习1">
+                 	  <game name="选择" zsd="因数与倍数">
+                 	  <intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/3/P34/1/db.xml" psway="5x/math" type="D"/>
+                 	  </game>	
+			     			</zsd>
+                 <zsd name="P35练习五6">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p35/6/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P35练习五8">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p35/8/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P35练习五9">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p35/9/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P35练习五12">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p35/12/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P38练一练1">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p38/1/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P39练习六3">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p39/3/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P39练习六5">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p39/5/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P39练习六6">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p39/6/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 	  <zsd name="课堂练习1">
+                 	  <game name="选择" zsd="简易的方程">
+                 	  <intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/3/P39/1/db.xml" psway="5x/math" type="D"/>
+                 	  </game>	
+			     			</zsd>
+			<zsd name="P45练习七2">
+                <game name="速算" zsd="因数与倍数">
+                <intface name="记事本" swf="60" txtway="xt_dir/5x/math/3/p45/2/susuan.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 <zsd name="P45练习七3">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p45/3/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+			<zsd name="P45练习七4">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p45/4/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			<zsd name="P45练习七5">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p45/5/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			<zsd name="P45练习七6">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p45/6/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			<zsd name="P45练习七7">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p45/7/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+		<zsd name="P45练习七8">
+		<game name="一题多问" zsd="简易的方程">
+	       <intface name="记事本" swf="140" txtway="xt_dir/5x/math/3/p45/8/dtdxt.xml" psway="5x/math" type="D"/>
+		</game>
+		</zsd>
+			<zsd name="P45练习七11">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p45/11/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			<zsd name="P45练习七12">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p45/12/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			<zsd name="P45练习七13">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p45/13/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+                 <zsd name="P47整理与练习1">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p47/1/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P47整理与练习2">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p47/2/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P47整理与练习5">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p47/5/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+                 <zsd name="P47整理与练习8">
+                 <game name="选择" zsd="因数与倍数">
+                 <intface name="记事本" swf="02" txtway="xt_dir/5x/math/3/p47/8/db.xml" psway="5x/math" type="D"/>
+                    </game>	
+                   </zsd>
+			<zsd name="P47整理与练习11">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p47/11/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			<zsd name="P47整理与练习12">
+                <game name="填空" zsd="因数与倍数">
+                <intface name="记事本" swf="20" txtway="xt_dir/5x/math/3/p47/12/danci0.xml" psway="5x/math" type="D"/>
+                            </game>
+			          </zsd>
+			</unit>
+                <unit name="第四单元">
+				<zsd name="p52练一练1">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p52/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="分数的意义">
+	         			  <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/4/1/1/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+				<zsd name="p54练一练1">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p54/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p54练一练2">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p54/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p54练一练3">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p54/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p55练一练1">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p55/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p55练一练2">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p55/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+					<game name="连线" zsd="分数的意义">
+					<intface name="记事本" swf="30" txtway="xt_dir/5x/math/yls5/4/3/1/key.xml" psway="5x/math" type="D"/>
+					<intface name="种花" swf="31" txtway="xt_dir/5x/math/yls5/4/3/1/key.xml" psway="5x/math" type="D"/>
+					<intface name="送信" swf="32" txtway="xt_dir/5x/math/yls5/4/3/1/key.xml" psway="5x/math" type="D"/>
+					 </game>
+					</zsd>	
+				<zsd name="p56练习八1">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八3">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八4">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/4/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八5">
+					<game name="填空" zsd="分数的意义">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p56/5/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八7">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/7/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八8">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/8/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八9">
+					<game name="填空" zsd="分数的意义">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p56/9/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八10">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/10/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八11">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/11/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八13">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/13/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八14">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/14/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八15">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/15/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八16">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/16/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八17">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/17/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p56练习八18">
+					<game name="选择" zsd="分数的意义">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p56/18/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p60练一练1">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p60/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P60练一练2">
+					<game name="判断" zsd="真分数和假分数">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/4/p60/2/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p60练一练3">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p60/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="真分数和假分数">
+	         			  <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/4/5/1/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+					<zsd name="课堂练习2">
+             		 	  <game name="判断" zsd="真分数和假分数">
+	         			  <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/4/5/2/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+				<zsd name="p61练一练1">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p61/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p61练一练2">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p61/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p62练一练1">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p62/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p62练一练2">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p62/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+					<game name="选择" zsd="真分数和假分数">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/4/7/1/db.xml" psway="5x/math" type="D"/>
+					</game>	
+			     			</zsd>
+				<zsd name="p63练习九1">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九5">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/5/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九6">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/6/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九8">
+					<game name="填空" zsd="真分数和假分数">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p63/8/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九9">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/9/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九10">
+					<game name="填空" zsd="真分数和假分数">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p63/10/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九11">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/11/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九12">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九13">
+					<game name="填空" zsd="真分数和假分数">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p63/13/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九15">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/15/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p63练习九16">
+					<game name="选择" zsd="真分数和假分数">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p63/16/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p67练一练2">
+					<game name="填空" zsd="分数的基本性质">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p67/2/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p67练一练3">
+					<game name="填空" zsd="分数的基本性质">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p67/3/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p67练一练4">
+					<game name="判断" zsd="分数的基本性质">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/4/p67/4/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="课堂练习1">
+					<game name="填空" zsd="分数的基本性质">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/yls5/4/9/1/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="课堂练习2">
+					<game name="填空" zsd="分数的基本性质">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/yls5/4/9/2/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p68练一练">
+					<game name="填空" zsd="约分">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p68/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="约分">
+	         		<intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/4/10/2/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+				<zsd name="P69练习十1">
+					<game name="判断" zsd="约分">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/4/p69/1/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十3">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十4">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/4/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十5">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/5/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P69练习十6">
+					<game name="判断" zsd="约分">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/4/p69/6/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P69练习十7">
+					<game name="连线" zsd="约分">
+						<intface name="记事本" swf="30" txtway="xt_dir/5x/math/4/p69/7/key.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十8">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/8/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十10">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/10/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十11">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/11/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十12">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十13">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/13/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p69练习十14">
+					<game name="选择" zsd="约分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p69/14/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P71练一练">
+					<game name="选择" zsd="通分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p71/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+					<game name="选择" zsd="通分">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/4/12/1/db.xml" psway="5x/math" type="D"/>
+					</game>	
+			     			</zsd>
+				<zsd name="P72练一练1">
+					<game name="选择" zsd="通分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p72/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P72练一练2">
+					<game name="选择" zsd="通分">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p72/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="通分">
+	         		 <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/4/13/1/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+				<zsd name="P73练习十一2">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一3">
+					<game name="判断" zsd="分数的应用">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/4/p73/3/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p73练习十一4">
+					<game name="填空" zsd="分数的应用">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/4/p73/4/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一5">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/5/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一6">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/6/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一7">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/7/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一8">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/8/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一9">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/9/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一12">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P73练习十一13">
+					<game name="选择" zsd="分数的应用">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p73/13/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习1">
+					<game name="判断" zsd="分数的意义和性质">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/4/p75/1/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习3">
+					<game name="选择" zsd="分数的意义和性质">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p75/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习4">
+					<game name="选择" zsd="分数的意义和性质">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p75/4/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习8">
+					<game name="选择" zsd="分数的意义和性质">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p75/8/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习9">
+					<game name="选择" zsd="分数的意义和性质">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p75/9/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习11">
+					<game name="选择" zsd="分数的意义和性质">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p75/11/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习12">
+					<game name="选择" zsd="分数的意义和性质">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p75/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P75整理与复习13">
+					<game name="选择" zsd="分数的意义和性质">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/4/p75/13/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+			</unit>
+            <unit name="第五单元">
+				<zsd name="P80练一练1">
+					<game name="选择" zsd="异分母加减">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p80/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P80练一练2">
+					<game name="选择" zsd="异分母加减">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p80/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+					<game name="选择" zsd="异分母加减">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/5/1/1/db.xml" psway="5x/math" type="D"/>
+					</game>	
+			     			</zsd>
+				<zsd name="P81练一练1">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p81/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P81练一练2">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p81/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P81练一练3">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p81/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="异分母加减混合运算">
+	         		 <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/5/2/1/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+					<zsd name="课堂练习2">
+					<game name="选择" zsd="异分母加减混合运算">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/5/2/2/db.xml" psway="5x/math" type="D"/>
+					</game>	
+			     			</zsd>
+				<zsd name="P82练习十二1">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二2">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二5">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/5/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二6">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/6/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二7">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/7/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二8">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/8/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二9">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/9/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二10">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/10/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二11">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/11/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二12">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二13">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/13/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二14">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/14/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二15">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/15/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二16">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/16/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二17">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/17/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P82练习十二18">
+					<game name="选择" zsd="异分母加减混合运算">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/5/p82/18/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+			</unit>
+           <unit name="第六单元">
+				<zsd name="P88练一练1">
+					<game name="判断" zsd="认识扇形">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/6/p88/1/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P88练一练2">
+					<game name="选择" zsd="认识扇形">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p88/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P88练一练3">
+					<game name="选择" zsd="认识扇形">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p88/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+             		 	  <game name="判断" zsd="认识扇形">
+	         		 <intface name="记事本" swf="12" txtway="xt_dir/5x/math/yls5/6/1/1/danci1.xml" psway="5x/math" type="D"/>
+              			  </game>	
+					  </zsd>
+				<zsd name="p89练习十三4">
+					<game name="速算" zsd="认识扇形">
+						<intface name="记事本" swf="60" txtway="xt_dir/5x/math/6/p89/4/susuan.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P89练习十三6">
+					<game name="选择" zsd="认识扇形">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p89/6/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P89练习十三10">
+					<game name="选择" zsd="认识扇形">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p89/10/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P89练习十三12">
+					<game name="选择" zsd="认识扇形">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p89/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p89练习十三13">
+					<game name="填空" zsd="认识扇形">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p89/13/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="P93练一练">
+					<game name="选择" zsd="圆的周长与直径">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p93/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+					<zsd name="课堂练习1">
+					<game name="选择" zsd="圆的周长与直径">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/6/4/1/db.xml" psway="5x/math" type="D"/>
+					</game>	
+			     			</zsd>
+					<zsd name="课堂练习2">
+					<game name="选择" zsd="圆的周长与直径">
+					<intface name="记事本" swf="02" txtway="xt_dir/5x/math/yls5/6/5/1/db.xml" psway="5x/math" type="D"/>
+					</game>	
+			     			</zsd>
+				<zsd name="课堂练习3">
+					<game name="填空" zsd="圆的周长与直径">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/yls5/6/5/2/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四1">
+					<game name="选择" zsd="圆的周长与直径">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p94/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四2">
+					<game name="选择" zsd="圆的周长与直径">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p94/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四3">
+					<game name="填空" zsd="圆的周长与直径">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p94/3/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四4">
+					<game name="填空" zsd="圆的周长与直径">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p94/4/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四5">
+					<game name="速算" zsd="圆的周长与直径">
+						<intface name="记事本" swf="60" txtway="xt_dir/5x/math/6/p94/5/susuan.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四6">
+					<game name="选择" zsd="圆的周长与直径">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p94/6/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四7">
+					<game name="填空" zsd="圆的周长与直径">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p94/7/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四8">
+					<game name="填空" zsd="圆的周长与直径">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p94/8/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四9">
+					<game name="选择" zsd="圆的周长与直径">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p94/9/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p94练习十四10">
+					<game name="填空" zsd="圆的周长与直径">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p94/10/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p98练一练1">
+					<game name="选择" zsd="圆的面积">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p98/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p98练一练2">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p98/2/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p99练一练1">
+					<game name="选择" zsd="圆的面积">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p99/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p99练一练2">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p99/2/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p99练一练3">
+					<game name="选择" zsd="圆的面积">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p99/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="课堂练习1">
+					<game name="填空" zsd="圆的周长与直径">
+						<intface name="降落伞" swf="20" txtway="xt_dir/5x/math/yls5/6/7/1/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五1">
+					<game name="选择" zsd="圆的面积">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p100/1/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五2">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p100/2/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五3">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p100/3/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五4">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p100/4/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五5">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p100/5/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五6">
+					<game name="选择" zsd="圆的面积">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p100/6/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五8">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p100/8/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五11">
+					<game name="一题多问" zsd="圆的面积">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/6/p100/11/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五12">
+					<game name="一题多问" zsd="圆的面积">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/6/p100/12/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五13">
+					<game name="一题多问" zsd="圆的面积">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/6/p100/13/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五14">
+					<game name="选择" zsd="圆的面积">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p100/14/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p100练习十五15">
+					<game name="填空" zsd="圆的面积">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p100/15/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习4">
+					<game name="一题多问" zsd="圆">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/6/p102/4/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习5">
+					<game name="填空" zsd="圆">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p102/5/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习6">
+					<game name="选择" zsd="圆">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p102/6/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习7">
+					<game name="填空" zsd="圆">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p102/7/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习8">
+					<game name="一题多问" zsd="圆">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/6/p102/8/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习9">
+					<game name="填空" zsd="圆">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p102/9/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习10">
+					<game name="选择" zsd="圆">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/6/p102/10/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习11">
+					<game name="一题多问" zsd="圆">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/6/p102/11/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习12">
+					<game name="一题多问" zsd="圆">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/6/p102/12/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p102整理与复习13">
+					<game name="填空" zsd="圆">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/6/p102/13/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+    		 </unit>
+		<unit name="第七单元">
+				<zsd name="p108练一练2">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p108/2/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六2">
+					<game name="判断" zsd="解决问题的策略">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/7/p109/2/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六3">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六4">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/4/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六5">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/5/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六8">
+					<game name="填空" zsd="解决问题的策略">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/7/p109/8/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六9">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/9/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六10">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/10/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六11">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/11/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六12">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p109练习十六13">
+					<game name="选择" zsd="解决问题的策略">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/7/p109/13/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+		</unit>
+		<unit name="整理复习">
+				<zsd name="p112整理与复习1">
+					<game name="判断" zsd="整理与复习">
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/math/8/p112/1/danci1.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习2">
+					<game name="速算" zsd="整理与复习">
+						<intface name="记事本" swf="60" txtway="xt_dir/5x/math/8/p112/2/susuan.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习3">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/3/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习4">
+					<game name="一题多问" zsd="整理与复习">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/8/p112/4/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习5">
+					<game name="一题多问" zsd="整理与复习">
+						<intface name="记事本" swf="140" txtway="xt_dir/5x/math/8/p112/5/dtdxt.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习6">
+					<game name="填空" zsd="整理与复习">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/8/p112/6/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习8">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/8/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习9">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/9/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习10">
+					<game name="填空" zsd="整理与复习">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/8/p112/10/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习11">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/11/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习12">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/12/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习13">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/13/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习14">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/14/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习15">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/15/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习16">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/16/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习17">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/17/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习20">
+					<game name="填空" zsd="整理与复习">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/8/p112/20/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习21">
+					<game name="填空" zsd="整理与复习">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/8/p112/21/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习22">
+					<game name="选择" zsd="整理与复习">
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/math/8/p112/22/db.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+				<zsd name="p112整理与复习23">
+					<game name="填空" zsd="整理与复习">
+						<intface name="记事本" swf="20" txtway="xt_dir/5x/math/8/p112/23/danci0.xml" psway="5x/math" type="D"/>
+					</game>
+				</zsd>
+		</unit>
+      </subject>
+</grade>
+</txt>

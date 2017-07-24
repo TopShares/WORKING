@@ -1,0 +1,162 @@
+﻿<txt>
+<grade name="">
+		<subject name="上册">
+				<unit name="第一单元">	
+					<zsd name="句子排序">
+    					<game name="排序">
+							<intface name="厨房" swf="40" txtway="xt_dir/5s/english/1/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5s/english/1/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5s/english/1/class/class.txt" psway="5s/english" type="D"/>
+	 					</game>	
+					</zsd>	
+					<zsd name="单词拼写练习">
+    					<game name="填空">
+							<intface name="记事本" swf="20" txtway="xt_dir/5s/english/1/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="虫子吃苹果" swf="21" txtway="xt_dir/5s/english/1/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="降落伞" swf="22" txtway="xt_dir/5s/english/1/jls/danci0.xml" psway="5s/english" type="F"/>
+	 					</game>	
+					</zsd>
+					<zsd name="单词听力选择练习">
+    					<game name="选择">
+							<intface name="行李" swf="0002" txtway="xt_dir/5s/english/1/xinli/danci1.txt" psway="5s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="第二单元">	
+					<zsd name="句子排序">
+    					<game name="排序">
+							<intface name="厨房" swf="40" txtway="xt_dir/5s/english/2/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5s/english/2/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5s/english/2/class/class.txt" psway="5s/english" type="D"/>
+	 					</game>	
+					</zsd>	
+					<zsd name="单词拼写练习">
+    					<game name="填空">
+							<intface name="记事本" swf="20" txtway="xt_dir/5s/english/2/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="虫子吃苹果" swf="21" txtway="xt_dir/5s/english/2/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="降落伞" swf="22" txtway="xt_dir/5s/english/2/jls/danci0.xml" psway="5s/english" type="F"/>
+	 					</game>	
+					</zsd>
+					<zsd name="句子听力选择练习1">
+    					<game name="选择">
+							<intface name="滑冰" swf="0001" txtway="xt_dir/5s/english/2/car/1/danci1.txt" psway="5s/english" type="D"/>
+	 					</game>
+					</zsd>
+					<zsd name="句子听力选择练习2">
+    					<game name="选择">
+							<intface name="滑冰" swf="0001" txtway="xt_dir/5s/english/2/car/2/danci1.txt" psway="5s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="第三单元">	
+					<zsd name="句子排序">
+    					<game name="排序">
+							<intface name="厨房" swf="40" txtway="xt_dir/5s/english/3/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5s/english/3/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5s/english/3/class/class.txt" psway="5s/english" type="D"/>
+	 					</game>	
+					</zsd>	
+					<zsd name="单词拼写练习">
+    					<game name="填空">
+							<intface name="记事本" swf="20" txtway="xt_dir/5s/english/3/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="虫子吃苹果" swf="21" txtway="xt_dir/5s/english/3/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="降落伞" swf="22" txtway="xt_dir/5s/english/3/jls/danci0.xml" psway="5s/english" type="F"/>
+	 					</game>	
+					</zsd>
+					<zsd name="单词听力选择练习">
+    					<game name="选择">
+							<intface name="行李" swf="0002" txtway="xt_dir/5s/english/3/xinli/danci1.txt" psway="5s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+				<unit name="第四单元">	
+					<zsd name="句子排序">
+    					<game name="排序">
+							<intface name="厨房" swf="40" txtway="xt_dir/5s/english/4/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5s/english/4/class/class.txt" psway="5s/english" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5s/english/4/class/class.txt" psway="5s/english" type="D"/>
+	 					</game>	
+					</zsd>	
+					<zsd name="单词拼写练习">
+    					<game name="填空">
+							<intface name="记事本" swf="20" txtway="xt_dir/5s/english/4/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="虫子吃苹果" swf="21" txtway="xt_dir/5s/english/4/jls/danci0.xml" psway="5s/english" type="F"/>
+							<intface name="降落伞" swf="22" txtway="xt_dir/5s/english/4/jls/danci0.xml" psway="5s/english" type="F"/>
+	 					</game>	
+					</zsd>
+					<zsd name="句子听力选择练习">
+    					<game name="选择">
+							<intface name="滑冰" swf="0001" txtway="xt_dir/5s/english/4/car/danci1.txt" psway="5s/english" type="D"/>
+	 					</game>
+					</zsd>
+				</unit>
+          </subject>			
+		<subject name="下册">
+                    <unit name="Unit1"> 
+                     <zsd name="句子判断练习">
+						<game name="判断">
+                               <intface name="浇花" swf="10" txtway="xt_dir/5x/english/1/basket/danci1.txt" psway="5x/english" type="D"/>
+						<intface name="篮球" swf="11" txtway="xt_dir/5x/english/1/basket/danci1.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/english/1/basket/danci1.txt" psway="5x/english" type="D"/>
+                   </game>                   
+                    </zsd>  
+                     <zsd name="综合复习">
+                                <game name="选择">
+                               <intface name="夹娃娃" swf="00" txtway="xt_dir/5x/english/1/zfx/mhgz1/db.txt" psway="5x/english" type="D"/>
+						<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/english/1/zfx/mhgz1/db.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/english/1/zfx/mhgz1/db.txt" psway="5x/english" type="D"/>
+                           </game>                    
+                            </zsd> 
+		           	</unit>
+                    <unit name="Unit2"> 
+                     <zsd name="句子判断练习">
+						<game name="判断">
+                               <intface name="浇花" swf="10" txtway="xt_dir/5x/english/2/basket/danci1.txt" psway="5x/english" type="D"/>
+						<intface name="篮球" swf="11" txtway="xt_dir/5x/english/2/basket/danci1.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/english/2/basket/danci1.txt" psway="5x/english" type="D"/>
+      </game>                 
+  </zsd>  
+                    <zsd name="小诗排序练习">
+						<game name="排序">
+                               <intface name="厨房" swf="40" txtway="xt_dir/5x/english/2/class/class.txt" psway="5x/english" type="D"/>
+						<intface name="校园" swf="41" txtway="xt_dir/5x/english/2/class/class.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="42" txtway="xt_dir/5x/english/2/class/class.txt" psway="5x/english" type="D"/>
+      </game>                 
+ </zsd>
+                     <zsd name="综合复习">
+                               <game name="排序">
+                               <intface name="厨房" swf="40" txtway="xt_dir/5x/english/2/zfx/class/class.txt" psway="5x/english" type="D"/>
+						<intface name="校园" swf="41" txtway="xt_dir/5x/english/2/zfx/class/class.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="42" txtway="xt_dir/5x/english/2/zfx/class/class.txt" psway="5x/english" type="D"/>
+                           </game>
+                               <game name="阅读">
+                              <intface name="冰激淋" swf="50" txtway="xt_dir/5x/english/2/zfx/bingan/danci.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="51" txtway="xt_dir/5x/english/2/zfx/bingan/danci.txt" psway="5x/english" type="D"/>
+						<intface name="机器人" swf="52" txtway="xt_dir/5x/english/2/zfx/bingan/danci.txt" psway="5x/english" type="D"/>
+    </game>                     
+</zsd> 
+		           	</unit>
+                    <unit name="Unit3">
+                      <zsd name="句子判断练习">
+						<game name="判断">
+                               <intface name="浇花" swf="10" txtway="xt_dir/5x/english/3/basket/danci1.txt" psway="5x/english" type="D"/>
+						<intface name="篮球" swf="11" txtway="xt_dir/5x/english/3/basket/danci1.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="12" txtway="xt_dir/5x/english/3/basket/danci1.txt" psway="5x/english" type="D"/>
+                         </game>                  
+                        </zsd>                     
+                       <zsd name="综合复习">
+                                <game name="选择">
+                               <intface name="夹娃娃" swf="00" txtway="xt_dir/5x/english/3/zfx/mhgz1/db.txt" psway="5x/english" type="D"/>
+						<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/english/3/zfx/mhgz1/db.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="02" txtway="xt_dir/5x/english/3/zfx/mhgz1/db.txt" psway="5x/english" type="D"/>
+                                   </game>
+                               <game name="阅读">
+                              <intface name="冰激淋" swf="50" txtway="xt_dir/5x/english/3/zfx/bingan/danci.txt" psway="5x/english" type="D"/>
+						<intface name="记事本" swf="51" txtway="xt_dir/5x/english/3/zfx/bingan/danci.txt" psway="5x/english" type="D"/>
+						<intface name="机器人" swf="52" txtway="xt_dir/5x/english/3/zfx/bingan/danci.txt" psway="5x/english" type="D"/>
+       </game>                 
+ </zsd>   
+		           	</unit>
+          </subject>	
+</grade>
+</txt>

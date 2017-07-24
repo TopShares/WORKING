@@ -1,0 +1,32 @@
+﻿<txt>
+<grade name="">
+		<subject name="上册">
+				
+				<unit name="yinyu2">
+					<zsd name="yinyuu2">
+    					<game name="yinyueu2">
+							<intface name="syinyueu2" swf="1011" txtway="xt_dir/1s/chinese/py/6/lxx/xz_txt.txt" psway="1x/chinese" type="F"/>
+	 					</game>	
+					</zsd>
+				</unit>
+				<unit name="yinyuu22">
+					<zsd name="syinyuu22">
+    					<game name="yinyuu22">
+							<intface name="yinyuu22" swf="1011" txtway="xt_dir/1s/chinese/py/7/lxx/xz_txt.txt" psway="1x/chinese" type="F"/>
+	 					</game>	
+					</zsd>
+				</unit>
+          </subject>			
+		<subject name="下册">
+				<unit name="yinyuu222">	
+						<zsd name="配合P1“yinyu2”">
+				 			<game name="填空" zsd="yinyu2">
+				 				<intface name="syinyu22" swf="20" txtway="xt_dir/1s/math1/1/P1/1/jls/danci0.xml" psway="1s/math1" type="D"/>
+				 				<intface name="yinyu22" swf="21" txtway="xt_dir/1s/math1/1/P1/1/jls/danci0.xml" psway="1s/math1" type="D"/>
+								<intface name="syinyu22" swf="22" txtway="xt_dir/1s/math1/1/P1/1/jls/danci0.xml" psway="1s/math1" type="D"/>
+ 			    				</game>
+			     			</zsd>		
+				</unit>
+          </subject>	
+</grade>
+</txt>

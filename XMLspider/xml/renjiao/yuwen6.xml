@@ -1,0 +1,32 @@
+﻿<txt>
+<grade name="">
+		<subject name="上册">
+				
+				<unit name="拼音j、q、x6">
+					<zsd name="写拼音练习\6">
+    					<game name="写拼音6">
+							<intface name="连星星6" swf="1011" txtway="xt_dir/1s/chinese/py/6/lxx/xz_txt.txt" psway="1x/chinese" type="F"/>
+	 					</game>	
+					</zsd>
+				</unit>
+				<unit name="拼音z、c、s66">
+					<zsd name="写拼音练习466">
+    					<game name="写拼音66">
+							<intface name="连星星66" swf="1011" txtway="xt_dir/1s/chinese/py/7/lxx/xz_txt.txt" psway="1x/chinese" type="F"/>
+	 					</game>	
+					</zsd>
+				</unit>
+          </subject>			
+		<subject name="下册">
+				<unit name="第一单元666">	
+						<zsd name="配合P1“想想做做题666”">
+				 			<game name="填空" zsd="数数字练666">
+				 				<intface name="记事本666" swf="20" txtway="xt_dir/1s/math1/1/P1/1/jls/danci0.xml" psway="1s/math1" type="D"/>
+				 				<intface name="虫子吃苹果666" swf="21" txtway="xt_dir/1s/math1/1/P1/1/jls/danci0.xml" psway="1s/math1" type="D"/>
+								<intface name="降落伞666" swf="22" txtway="xt_dir/1s/math1/1/P1/1/jls/danci0.xml" psway="1s/math1" type="D"/>
+ 			    				</game>
+			     			</zsd>		
+				</unit>
+          </subject>	
+</grade>
+</txt>

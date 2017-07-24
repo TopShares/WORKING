@@ -1,0 +1,2019 @@
+﻿<txt>
+<grade name="">	
+	<subject name="上册">	
+          <unit name="课文1">
+				<zsd name="生字“滋”的学习">
+						<game name="选择" zsd="“滋”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/1/zi/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+                     <zsd name="生字“歇”的练习">
+                                <game name="判断" zsd="“歇”的音、形、义">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/1/xie/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《师恩难忘》内容了解">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/1/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="第八段精读">
+						<game name="选择" zsd="第八段内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/1/jd/8/mhgz1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《师恩难忘》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/1/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>	
+          <unit name="课文2">
+				<zsd name="生字“励”的学习">
+						<game name="选择" zsd="“励”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/2/li/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+                     <zsd name="生字“炼”的练习">
+                                <game name="判断" zsd="“炼”的音、形、义">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/2/lian/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《陶校长的演讲》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/2/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第三段精读">
+						<game name="判断" zsd="第三段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/2/jd/3/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《陶校长的演讲》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/2/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文3">
+				<zsd name="生字“振”的学习">
+						<game name="选择" zsd="“振”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/3/zhen/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“骑”的学习">
+						<game name="选择" zsd="“骑”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/3/qi/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《古诗两首》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/3/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="《寻隐者不遇》精读">
+						<game name="选择" zsd="第二句内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/3/1/jd/2/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="《所见》精读">
+						<game name="选择" zsd="第一句内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/3/2/jd/1/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="《寻隐者不遇》概括总结">
+						<game name="判断" zsd="《寻隐者不遇》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/3/1/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="《所见》概括总结">
+						<game name="判断" zsd="《所见》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/3/2/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>	
+          <unit name="课文4">
+				<zsd name="生字“敞”的学习">
+						<game name="选择" zsd="“敞”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/4/chang/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+                     <zsd name="生字“锦”的练习">
+                                <game name="判断" zsd="“锦”的音、形、义">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/4/jing/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《去打开大自然绿色的课本》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/4/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第二段精读">
+						<game name="连线" zsd="第二段内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/chinese/4/jd/2/key/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《去打开大自然绿色的课本》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/4/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文5">
+                     <zsd name="生字“毒”的练习">
+                                <game name="判断" zsd="“毒”的音、形、义">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/5/du/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+			      </zsd>
+                     <zsd name="生字“察”的练习">
+                                <game name="判断" zsd="“察”的音、形、义">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/5/cha/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《装满昆虫的衣袋》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/5/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第四段精读">
+						<game name="连线" zsd="第四段内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/chinese/5/jd/4/key/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《装满昆虫的衣袋》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/5/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文6">
+                     <zsd name="生字“腹”的练习">
+						<game name="选择" zsd="“腹”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/6/fu/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“距”的练习">
+						<game name="选择" zsd="“距”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/6/ju/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《变色龙》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/6/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第九段精读">
+						<game name="判断" zsd="第九段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/6/jd/9/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《变色龙》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/6/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文7">
+                     <zsd name="生字“协”的练习">
+						<game name="选择" zsd="“协”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/7/xie/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“颜”的练习">
+						<game name="判断" zsd="“颜”的音、形、义">
+							<intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/7/yan/basket/danci1.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《金蝉脱壳》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/7/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第四段精读">
+						<game name="选择" zsd="第四段内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/7/jd/4/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《金蝉脱壳》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/7/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文8">
+                     <zsd name="生字“壁”的练习">
+						<game name="选择" zsd="“壁”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/8/bi/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“韵”的练习">
+						<game name="选择" zsd="“韵”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/8/yun/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="选择" zsd="《成语故事》内容了解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/8/cd/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="第二段精读">
+						<game name="判断" zsd="第二段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/8/jd/2/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+			      </zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《成语故事》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/8/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文9">
+                     <zsd name="生字“妥”的练习">
+						<game name="选择" zsd="“妥”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/9/tuo/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“貌”的练习">
+						<game name="选择" zsd="“貌”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/9/mao/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="选择" zsd="《推敲》内容了解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/9/cd/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="第三段精读">
+						<game name="选择" zsd="第三段内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/9/jd/3/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《推敲》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/9/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文10">
+                     <zsd name="生字“蒙”的练习">
+						<game name="选择" zsd="“蒙”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/10/meng/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“奸”的练习">
+						<game name="选择" zsd="“奸”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/10/jian/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="选择" zsd="《嫦娥奔月》内容了解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/10/cd/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="第二段精读">
+						<game name="连线" zsd="第二段内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/chinese/10/jd/2/key/key.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+				<zsd name="第五段精读">
+						<game name="选择" zsd="第五段内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/10/jd/5/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《嫦娥奔月》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/10/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文12">
+                     <zsd name="生字“戒”的练习">
+						<game name="选择" zsd="“戒”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/12/jie/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“谎”的练习">
+						<game name="选择" zsd="“谎”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/12/huang/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="选择" zsd="《伊索寓言》内容了解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/12/cd/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="第二段精读">
+						<game name="判断" zsd="第二段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/12/jd/2/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《伊索寓言》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/12/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文13">
+                     <zsd name="生字“咽”的练习">
+						<game name="选择" zsd="“咽”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/13/yan/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“崭”的练习">
+						<game name="选择" zsd="“崭”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/13/zhan/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="选择" zsd="《在大海中永生》内容了解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/13/cd/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="第三段精读">
+						<game name="判断" zsd="第三段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/13/jd/3/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《在大海中永生》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/13/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文14">
+                     <zsd name="生字“妻”的练习">
+						<game name="选择" zsd="“妻”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/14/qi/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“庞”的练习">
+						<game name="选择" zsd="“庞”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/14/pang/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="选择" zsd="《高尔基和他的儿子》内容了解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/14/cd/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="第五段精读">
+						<game name="判断" zsd="第五段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/14/jd/5/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《高尔基和他的儿子》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/14/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文15">
+                     <zsd name="生字“遭”的练习">
+						<game name="选择" zsd="“遭”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/15/zao/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“仁”的练习">
+						<game name="选择" zsd="“仁”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/15/ren/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="选择" zsd="《艾滋病小斗士》内容了解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/15/cd/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="第六段精读">
+						<game name="选择" zsd="《艾滋病小斗士》第六段内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/15/jd/6/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《艾滋病小斗士》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/15/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文16">
+                     <zsd name="生字“陡”的练习">
+						<game name="选择" zsd="“陡”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/16/dou/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“屏”的练习">
+						<game name="选择" zsd="“屏”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/16/ping/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《黄山奇松》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/16/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第二段精读">
+						<game name="判断" zsd="《黄山奇松》第二段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/16/jd/2/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《黄山奇松》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/16/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文17">
+                     <zsd name="生字“叠”的练习">
+						<game name="选择" zsd="“叠”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/17/die/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“缝”的练习">
+						<game name="选择" zsd="“缝”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/17/feng/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《黄果树瀑布》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/17/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第二段精读">
+						<game name="选择" zsd="《黄果树瀑布》第二段内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/17/jd/2/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《黄果树瀑布》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/17/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文18">
+                     <zsd name="生字“尊”的练习">
+						<game name="选择" zsd="“尊”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/18/zun/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“弦”的练习">
+						<game name="选择" zsd="“弦”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/18/xuan/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《莫高窟》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/18/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第二段精读练习">
+						<game name="连线" zsd="《莫高窟》第二段内容了解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5s/chinese/18/jd/2/key/key.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+				<zsd name="第三段精读">
+						<game name="判断" zsd="《莫高窟》第三段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/18/jd/3/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《莫高窟》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/18/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文19">
+                     <zsd name="生字“揭”的练习">
+						<game name="选择" zsd="“揭”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/19/jie/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“劈”的练习">
+						<game name="选择" zsd="“劈”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/19/pi/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《天火之谜》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/19/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第四段精读">
+						<game name="判断" zsd="《天火之谜》第四段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/19/jd/4/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《天火之谜》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/19/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文20">
+                     <zsd name="生字“博”的练习">
+						<game name="选择" zsd="“博”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/20/bo/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“诞”的练习">
+						<game name="选择" zsd="“诞”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/20/dan/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《厄运打不垮的信念》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/20/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第三段精读">
+						<game name="判断" zsd="《厄运打不垮的信念》第三段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/20/jd/3/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《厄运打不垮的信念》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/20/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文21">
+                     <zsd name="生字“摩”的练习">
+						<game name="选择" zsd="“摩”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/21/mo/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“械”的练习">
+						<game name="选择" zsd="“械”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/21/xie/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《诺贝尔》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/21/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第八段精读">
+						<game name="判断" zsd="《诺贝尔》第八段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/21/jd/8/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《诺贝尔》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/21/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文22">
+                     <zsd name="生字“贩”的练习">
+						<game name="选择" zsd="“贩”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/22/fan/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“谋”的练习">
+						<game name="选择" zsd="“谋”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/22/mou/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《滴水穿石的启示》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/22/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第三段精读">
+						<game name="判断" zsd="《滴水穿石的启示》第三段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/22/jd/3/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《滴水穿石的启示》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/22/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文23">
+                     <zsd name="生字“羞”的练习">
+						<game name="选择" zsd="“羞”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/23/xiu/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“押”的练习">
+						<game name="选择" zsd="“押”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/23/ya/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《林冲棒打洪教头》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/23/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第三段精读">
+						<game name="判断" zsd="《林冲棒打洪教头》第三段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/23/jd/3/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《林冲棒打洪教头》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/23/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文24">
+                     <zsd name="生字“媚”的练习">
+						<game name="选择" zsd="“媚”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/24/mei/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“载”的练习">
+						<game name="选择" zsd="“载”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/24/zai/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《少年王冕》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/24/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第五段精读">
+						<game name="判断" zsd="《少年王冕》第五段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/24/jd/5/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《林冲棒打洪教头》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/24/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文25">
+                     <zsd name="生字“暮”的练习">
+						<game name="选择" zsd="“暮”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/25/mu/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《黄鹤楼送别》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/25/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第四段精读">
+						<game name="选择" zsd="《黄鹤楼送别》第四段内容理解">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/25/jd/4/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《黄鹤楼送别》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/25/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+          <unit name="课文26">
+                     <zsd name="生字“锄”的练习">
+						<game name="选择" zsd="“锄”的音、形、义">
+							<intface name="记事本" swf="02" txtway="xt_dir/5s/chinese/26/chu/mhgz1/db.xml" psway="1s/chinese" type="D"/>
+                              </game>	
+			      </zsd>
+                     <zsd name="生字“翁”的练习">
+                                <game name="判断" zsd="“翁”的音、形、义">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/26/weng/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+			      </zsd>
+				<zsd name="课文初读">
+						<game name="判断" zsd="《清平乐　村居》内容了解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/26/cd/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="第二段精读">
+						<game name="判断" zsd="《清平乐　村居》第二段内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/26/jd/2/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="判断" zsd="《清平乐　村居》内容理解">
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5s/chinese/26/gk/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+				</zsd>
+		</unit>
+     </subject>
+	<subject name="下册">	
+			<unit name="课文1">
+				<zsd name="生字“蹦”学习">
+						<game name="选择" zsd="“蹦”的音、形">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/1/yuxi/beng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/1/yuxi/beng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/1/yuxi/beng/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“裸”学习">
+						<game name="选择" zsd="“裸”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/1/yuxi/luo/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/1/yuxi/luo/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/1/yuxi/luo/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《春光染绿我们双脚》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/1/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/1/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/1/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第七段精读练习">
+						<game name="选择" zsd="《春光染绿我们双脚》第七段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/1/jd/7/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/1/jd/7/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/1/jd/7/db.txt" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>						
+				<zsd name="概括总结">
+						<game name="选择" zsd="《春光染绿我们双脚》意义理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/1/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/1/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/1/gk/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+                     <zsd name="综合复习">
+                                <game name="判断" zsd="字形">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/5x/chinese/kh/1/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/5x/chinese/kh/1/basket/danci1.xml" psway="5x/chinese" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5x/chinese/kh/1/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+						<game name="连线" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/1/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/1/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/1/key/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+						<game name="选择1" zsd="字形">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/1/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/1/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/1/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/1/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/1/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/1/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+			      </zsd>
+			</unit>
+			<unit name="课文2">
+				<zsd name="生字“挫”的学习">
+						<game name="选择" zsd="“挫”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/2/yuxi/cuo/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/2/yuxi/cuo/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/2/yuxi/cuo/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“滕”的学习">
+						<game name="选择" zsd="“滕”的音、形">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/2/yuxi/teng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/2/yuxi/teng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/2/yuxi/teng/db.txt" psway="5x/chinese" type="D"/>
+                              </game>						
+				</zsd>
+				<zsd name="第四段精读练习">
+						<game name="选择" zsd="《暖流》第四段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/2/jd/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/2/jd/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/2/jd/4/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第五段精读练习">
+						<game name="连线" zsd="《暖流》第五段内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/2/jd/5/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/2/jd/5/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/2/jd/5/key.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="连线" zsd="文学常识">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/2/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/2/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/2/key/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+						<game name="选择" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/2/mhgz1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/2/mhgz1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/2/mhgz1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文3">
+				<zsd name="生字“栏”的学习">
+						<game name="选择" zsd="“栏”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/3/yuxi/lan/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/3/yuxi/lan/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/3/yuxi/lan/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“解”的学习">
+						<game name="选择" zsd="“解”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/3/yuxi/jie/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/3/yuxi/jie/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/3/yuxi/jie/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《只拣儿童多处行》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/3/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/3/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/3/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第五段精读练习">
+						<game name="选择" zsd="《只拣儿童多处行》第五段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/3/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/3/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/3/jd/5/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>					
+				</zsd>
+				<zsd name="概括总结">
+						<game name="连线" zsd="《只拣儿童多处行》意义理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/3/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/3/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/3/gk/key.txt" psway="5x/chinese" type="D"/>
+                              </game>			
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="连线1" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/3/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/3/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/3/key/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+						<game name="选择1" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/3/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/3/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/3/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="古诗拓展">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/3/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/3/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/3/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+			<unit name="课文4">
+				<zsd name="生字“瓣”的学习">
+						<game name="选择" zsd="“瓣”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/4/yuxi/ban/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/4/yuxi/ban/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/4/yuxi/ban/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“酿”的学习">
+						<game name="选择" zsd="“酿”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/4/yuxi/niang/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/4/yuxi/niang/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/4/yuxi/niang/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《早》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/4/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/4/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/4/td/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+                    <zsd name="第三段精读练习">
+						<game name="选择" zsd="《早》第三段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/4/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/4/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/4/jd/3/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+                    <zsd name="第八段精读练习">
+						<game name="选择" zsd="《早》第八段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/4/jd/8/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/4/jd/8/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/4/jd/8/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《早》意义理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/4/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/4/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/4/gk/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/4/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/4/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/4/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="字义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/4/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/4/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/4/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文5">
+				<zsd name="生字“苔”的学习">
+						<game name="选择" zsd="“苔”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/5/yuxi/tai/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/5/yuxi/tai/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/5/yuxi/tai/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>										
+				</zsd>
+				<zsd name="“应怜屐齿印苍苔”精读练习">
+						<game name="选择" zsd="“应怜屐齿印苍苔”内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/5/jd/1/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/5/jd/1/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/5/jd/1/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                    <zsd name="“儿童急走追黄蝶”精读练习">
+						<game name="选择" zsd="“儿童急走追黄蝶”内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/5/jd/2/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/5/jd/2/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/5/jd/2/db.txt" psway="5x/chinese" type="D"/>
+                              </game>								
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="选择1" zsd="文学常识">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/5/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/5/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/5/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/5/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/5/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/5/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文6">
+				<zsd name="生字“侨”的学习">
+						<game name="选择" zsd="“侨”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/6/yuxi/qiao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/6/yuxi/qiao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/6/yuxi/qiao/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“执”的学习">
+						<game name="选择" zsd="“执”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/6/yuxi/zhi/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/6/yuxi/zhi/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/6/yuxi/zhi/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《梦圆飞天》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/6/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/6/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/6/td/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第二段精读练习">
+						<game name="选择" zsd="《梦圆飞天》第二段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/6/jd/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/6/jd/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/6/jd/2/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+	                </zsd>
+	            	<zsd name="概括总结">
+						<game name="连线" zsd="《梦圆飞天》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/6/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/6/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/6/gk/key.txt" psway="5x/chinese" type="D"/>	
+　                              </game>
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="选择1" zsd="词语的理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/6/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/6/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/6/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/6/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/6/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/6/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文7">
+				<zsd name="生字“熔”的学习">
+						<game name="选择" zsd="“熔”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/7/yuxi/rong/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/7/yuxi/rong/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/7/yuxi/rong/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“挟”的学习">
+						<game name="选择" zsd="“挟”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/7/yuxi/xie/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/7/yuxi/xie/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/7/yuxi/xie/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《火星——地球的“孪生兄弟”》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/7/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/7/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/7/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第一段精读练习">
+						<game name="选择" zsd="《火星——地球的“孪生兄弟”》第一段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/7/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/7/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/7/jd/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《火星——地球的“孪生兄弟”》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/7/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/7/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/7/gk/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="连线" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/7/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/7/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/7/key/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+						<game name="选择1" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/7/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/7/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/7/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="字形">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/7/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/7/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/7/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择3" zsd="词语的理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/7/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/7/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/7/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择4" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/7/mhgz1/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/7/mhgz1/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/7/mhgz1/4/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文8">
+				<zsd name="生字“例”的学习">
+						<game name="选择" zsd="“例”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/8/yuxi/li/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/8/yuxi/li/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/8/yuxi/li/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“诱”的学习">
+						<game name="选择" zsd="“诱”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/8/yuxi/you/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/8/yuxi/you/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/8/yuxi/you/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《神奇的克隆》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/8/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/8/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/8/td/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第三段精读练习">
+						<game name="选择" zsd="《神奇的克隆》第三段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/8/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/8/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/8/jd/3/db.xml" psway="5x/chinese" type="D"/>
+                              </game>								
+				</zsd>
+				<zsd name="概括总结">
+						<game name="连线" zsd="《神奇的克隆》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/8/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/8/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/8/gk/key.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="连线" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/8/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/8/key/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/8/key/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+						<game name="选择1" zsd="句子的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/8/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/8/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/8/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="字形">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/8/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/8/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/8/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择3" zsd="文学常识">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/8/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/8/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/8/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择4" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/8/mhgz1/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/8/mhgz1/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/8/mhgz1/4/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文9">
+				<zsd name="生字“挠”的学习">
+						<game name="选择" zsd="“挠”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/9/yuxi/nao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/9/yuxi/nao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/9/yuxi/nao/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+                     <zsd name="生字“燥”的学习">
+						<game name="选择" zsd="“燥”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/9/yuxi/zao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/9/yuxi/zao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/9/yuxi/zao/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《海伦·凯勒》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/9/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/9/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/9/td/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第四段精读练习">
+						<game name="选择" zsd="《海伦·凯勒》第四段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/9/jd/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/9/jd/4/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/9/jd/4/db.xml" psway="5x/chinese" type="D"/>
+                              </game>						
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《海伦·凯勒》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/9/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/9/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/9/gk/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/9/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/9/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/9/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择2" zsd="标点符号">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/9/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/9/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/9/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+						<game name="选择3" zsd="字形">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/9/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/9/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/9/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文10">
+				<zsd name="生字“倾”的学习">
+						<game name="选择" zsd="“倾”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/10/yuxi/qing/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/10/yuxi/qing/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/10/yuxi/qing/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“享”的学习">
+						<game name="选择" zsd="“享”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/10/yuxi/xiang/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/10/yuxi/xiang/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/10/yuxi/xiang/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《二泉映月》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/10/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/10/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/10/td/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第四段精读练习">
+						<game name="选择" zsd="《二泉映月》第四段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/10/jd/4/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/10/jd/4/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/10/jd/4/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>				
+				</zsd>
+                     <zsd name="第五段精读练习">
+						<game name="排序" zsd="《二泉映月》第五段内容理解">
+							<intface name="厨房" swf="40" txtway="xt_dir/5x/chinese/10/jd/5/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5x/chinese/10/jd/5/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5x/chinese/10/jd/5/class.txt" psway="5x/chinese" type="D"/>
+                              </game>					
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《二泉映月》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/10/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/10/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/10/gk/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+                     <zsd name="综合复习">
+                                <game name="判断" zsd="句子的运用">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/5x/chinese/kh/10/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/5x/chinese/kh/10/basket/danci1.xml" psway="5x/chinese" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5x/chinese/kh/10/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>	
+						<game name="连线1" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/10/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/10/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/10/key/1/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+						<game name="连线2" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/10/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/10/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/10/key/2/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+			</unit>
+
+			<unit name="课文11">
+				<zsd name="生字“遣”的学习">
+						<game name="选择" zsd="“遣”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/11/yuxi/qian/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/11/yuxi/qian/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/11/yuxi/qian/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“撕”的学习">
+						<game name="选择" zsd="“撕”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/11/yuxi/si/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/11/yuxi/si/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/11/yuxi/si/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《郑和远航》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/11/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/11/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/11/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第五段精读练习">
+						<game name="选择" zsd="《郑和远航》第五段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/11/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/11/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/11/jd/5/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>								
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《郑和远航》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/11/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/11/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/11/gk/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="选择" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/11/mhgz1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/11/mhgz1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/11/mhgz1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+			</unit>
+
+			<unit name="课文12">
+				<zsd name="生字“隶”的学习">
+						<game name="选择" zsd="“隶”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/12/yuxi/li/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/12/yuxi/li/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/12/yuxi/li/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“泰”的学习">
+						<game name="选择" zsd="“泰”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/12/yuxi/tai/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/12/yuxi/tai/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/12/yuxi/tai/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《司马迁发愤写《史记》》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/12/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/12/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/12/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第三段精读练习">
+						<game name="选择" zsd="《司马迁发愤写《史记》》第三段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/12/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/12/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/12/jd/3/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="连线" zsd="《司马迁发愤写《史记》》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/12/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/12/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/12/gk/key.txt" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+                     <zsd name="综合复习">
+                                <game name="判断" zsd="句子的运用">
+	                                 <intface name="篮球" swf="11" txtway="xt_dir/5x/chinese/kh/12/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                      <intface name="浇花" swf="10" txtway="xt_dir/5x/chinese/kh/12/basket/danci1.xml" psway="5x/chinese" type="D"/>
+	                                 <intface name="记事本" swf="12" txtway="xt_dir/5x/chinese/kh/12/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                </game>		
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/12/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/12/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/12/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="词语的理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/12/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/12/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/12/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>		
+			<unit name="课文14">
+				<zsd name="生字“拱”的学习">
+						<game name="选择" zsd="“拱”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/14/yuxi/gong/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/14/yuxi/gong/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/14/yuxi/gong/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“拟”的学习">
+						<game name="选择" zsd="“拟”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/14/yuxi/ni/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/14/yuxi/ni/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/14/yuxi/ni/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《秦兵马俑》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/14/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/14/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/14/td/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第二段精读练习">
+						<game name="选择" zsd="《秦兵马俑》第二段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/14/jd/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/14/jd/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/14/jd/2/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="连线" zsd="《秦兵马俑》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/14/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/14/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/14/gk/key.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">	
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/14/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/14/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/14/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/14/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/14/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/14/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>
+			<unit name="课文15">
+				<zsd name="生字“宏”的学习">
+						<game name="选择" zsd="“宏”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/15/yuxi/hong/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/15/yuxi/hong/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/15/yuxi/hong/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“厦”的学习">
+						<game name="选择" zsd="“厦”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/15/yuxi/xia/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/15/yuxi/xia/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/15/yuxi/xia/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《埃及的金字塔》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/15/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/15/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/15/td/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="第三段精读练习">
+						<game name="选择" zsd="《埃及的金字塔》第三段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/15/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/15/jd/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/15/jd/3/db.xml" psway="5x/chinese" type="D"/>
+                              </game>							
+				</zsd>			
+				<zsd name="概括总结">
+						<game name="连线" zsd="《埃及的金字塔》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/15/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/15/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/15/gk/key.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">	
+						<game name="选择1" zsd="《埃及的金字塔》课文理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/15/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/15/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/15/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/15/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/15/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/15/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>
+			<unit name="课文16">
+				<zsd name="生字“卑”的学习">
+						<game name="选择" zsd="“卑”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/16/yuxi/bei/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/16/yuxi/bei/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/16/yuxi/bei/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+                     <zsd name="生字“辉”的学习">
+						<game name="选择" zsd="“辉”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/16/yuxi/hui/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/16/yuxi/hui/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/16/yuxi/hui/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《音乐之都维也纳》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/16/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/16/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/16/td/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第一段精读练习">
+						<game name="选择" zsd="《音乐之都维也纳》第一段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/16/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/16/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/16/jd/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="第五段精读练习">
+						<game name="选择" zsd="《埃及的金字塔》第五段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/16/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/16/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/16/jd/5/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《埃及的金字塔》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/16/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/16/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/16/gk/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+                                                      <game name="判断" zsd="句子的运用">
+	                                                      <intface name="篮球" swf="11" txtway="xt_dir/5x/chinese/kh/16/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                                                               <intface name="浇花" swf="10" txtway="xt_dir/5x/chinese/kh/16/basket/danci1.xml" psway="5x/chinese" type="D"/>
+	                                                      <intface name="记事本" swf="12" txtway="xt_dir/5x/chinese/kh/16/basket/danci1.xml" psway="5x/chinese" type="D"/>
+                               </game>	
+						<game name="连线1" zsd="文学常识">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/16/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/16/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/16/key/1/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+						<game name="连线2" zsd="文学常识">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/16/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/16/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/16/key/2/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/16/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/16/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/16/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/16/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/16/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/16/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择3" zsd="字形">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/16/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/16/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/16/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>
+			<unit name="课文17">
+				<zsd name="生字“缕”的学习">
+						<game name="选择" zsd="“缕”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/17/yuxi/nv/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="选择（捉迷藏" swf="01" txtway="xt_dir/5x/chinese/17/yuxi/nv/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="选择（记事本" swf="02" txtway="xt_dir/5x/chinese/17/yuxi/nv/db.txt" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+				<zsd name="生字“欠”的学习">
+						<game name="选择" zsd="“欠”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/17/yuxi/qian/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="选择（捉迷藏" swf="01" txtway="xt_dir/5x/chinese/17/yuxi/qian/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="选择（记事本" swf="02" txtway="xt_dir/5x/chinese/17/yuxi/qian/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《爱如茉莉》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/17/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/17/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/17/td/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第九段精读练习">
+						<game name="选择" zsd="《爱如茉莉》第九段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/17/jd/9/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/17/jd/9/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/17/jd/9/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《爱如茉莉》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/17/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/17/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/17/gk/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="连线1" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/17/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/17/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/17/key/1/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+						<game name="连线2" zsd="文学常识">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/17/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/17/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/17/key/2/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+						<game name="选择1" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/17/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/17/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/17/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/17/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/17/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/17/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>
+			<unit name="课文18">
+				<zsd name="生字“帐”的学习">
+						<game name="选择" zsd="“帐”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/18/yuxi/zhang/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/18/yuxi/zhang/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/18/yuxi/zhang/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“辰”的学习">
+						<game name="选择" zsd="“辰”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/18/yuxi/chen/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/18/yuxi/chen/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/18/yuxi/chen/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《月光启蒙》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/18/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/18/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/18/td/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第六段精读练习">
+						<game name="选择" zsd="《月光启蒙》第六段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/18/jd/6/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/18/jd/6/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/18/jd/6/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>				
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《月光启蒙》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/18/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/18/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/18/gk/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="连线1" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/18/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/18/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/18/key/1/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+						<game name="连线2" zsd="文学常识">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/18/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/18/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/18/key/2/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/18/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/18/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/18/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/18/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/18/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/18/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>
+
+			<unit name="课文19">
+				<zsd name="生字“帽”的学习">
+						<game name="选择" zsd="“帽”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/19/yuxi/mao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/19/yuxi/mao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/19/yuxi/mao/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“瞎”的学习">
+						<game name="选择" zsd="“瞎”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/19/yuxi/xia/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/19/yuxi/xia/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/19/yuxi/xia/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《我和祖父的园子》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/19/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/19/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/19/td/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第二段精读练习">
+						<game name="选择" zsd="《我和祖父的园子》第二段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/19/jd/2/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/19/jd/2/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/19/jd/2/db.txt" psway="5x/chinese" type="D"/>
+                              </game>								
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《我和祖父的园子》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/19/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/19/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/19/gk/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+                     <zsd name="综合复习">
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/19/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/19/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/19/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="句子的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/18/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/18/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/18/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>
+                   <unit name="课文20">
+				<zsd name="生字“傅”的学习">
+						<game name="选择" zsd="“傅”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/20/yuxi/fu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/20/yuxi/fu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/20/yuxi/fu/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“嫌”的学习">
+						<game name="选择" zsd="“嫌”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/20/yuxi/xian/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/20/yuxi/xian/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/20/yuxi/xian/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《谈礼貌》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/20/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/20/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/20/td/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第一段精读练习">
+						<game name="选择" zsd="《谈礼貌》第一段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/20/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/20/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/20/jd/1/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>							
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《谈礼貌》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/20/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/20/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/20/gk/db.xml" psway="5x/chinese" type="D"/>
+                              </game>	
+                     </zsd>
+                     <zsd name="综合复习">
+						<game name="连线1" zsd="词语的运用">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/20/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/20/key/1/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/20/key/1/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+						<game name="连线2" zsd="文学常识">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/kh/20/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/kh/20/key/2/key.xml" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/kh/20/key/2/key.xml" psway="5x/chinese" type="D"/>	
+                              </game>	
+				</zsd>
+			</unit>
+                   <unit name="课文21">			
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《七律 长征》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/21/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/21/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/21/td/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="“五岭逶迤腾细浪”精读练习">
+						<game name="选择" zsd="“五岭逶迤腾细浪”内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/21/jd/3/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/21/jd/3/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/21/jd/3/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>							
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《七律 长征》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/20/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/20/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/20/gk/db.xml" psway="5x/chinese" type="D"/>
+                              </game>	
+						<game name="连线" zsd="《七律 长征》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/21/kh/key/1/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/21/kh/key/1/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/21/kh/key/1/key.txt" psway="5x/chinese" type="D"/>
+                               </game>
+                     </zsd>
+                     <zsd name="综合复习">
+                                                     <game name="排序" zsd="句子的运用">
+							<intface name="厨房" swf="40" txtway="xt_dir/5x/chinese/kh/21/class/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5x/chinese/kh/21/class/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5x/chinese/kh/21/class/class.txt" psway="5x/chinese" type="D"/>
+                               </game>	
+						<game name="选择1" zsd="词语的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/21/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/21/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/21/mhgz1/1/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择2" zsd="字音">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/21/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/21/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/21/mhgz1/2/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+						<game name="选择3" zsd="句子的运用">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/kh/21/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/kh/21/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/kh/21/mhgz1/3/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+			</unit>
+                   <unit name="课文22">	
+		           <zsd name="生字“警”的学习">
+						<game name="选择" zsd="“警”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/22/yuxi/jing/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/22/yuxi/jing/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/22/yuxi/jing/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“御”的学习">
+						<game name="选择" zsd="“御”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/22/yuxi/yu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/22/yuxi/yu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/22/yuxi/yu/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《彭德怀和他的大黑骡子》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/22/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/22/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/22/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="第二段精读练习">
+						<game name="选择" zsd="《彭德怀和他的大黑骡子》第二段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/22/jd/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/22/jd/2/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/22/jd/2/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>							
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《彭德怀和他的大黑骡子》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/22/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/22/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/22/gk/db.txt" psway="5x/chinese" type="D"/>
+                              </game>
+
+               </zsd>
+			</unit>
+                   <unit name="课文23">	
+		           <zsd name="生字“锋”的学习">
+						<game name="选择" zsd="“锋”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/23/yuxi/feng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/23/yuxi/feng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/23/yuxi/feng/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“赛”的学习">
+						<game name="选择" zsd="“赛”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/23/yuxi/sai/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/23/yuxi/sai/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/23/yuxi/sai/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《大江保卫战》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/23/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/23/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/23/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="第一段精读练习">
+						<game name="选择" zsd="《大江保卫战》第一段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/23/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/23/jd/1/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/23/jd/1/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>							
+				</zsd>
+                     <zsd name="第五段精读练习">
+						<game name="选择" zsd="《大江保卫战》第五段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/23/jd/5/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/23/jd/5/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/23/jd/5/db.txt" psway="5x/chinese" type="D"/>
+                              </game>							
+				</zsd>
+				<zsd name="概括总结">
+						<game name="选择" zsd="《大江保卫战》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/23/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/23/gk/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/23/gk/db.xml" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+			</unit>
+                   <unit name="课文24">	
+		           <zsd name="生字“遮”的学习">
+						<game name="选择" zsd="“遮”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/24/yuxi/zhe/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/24/yuxi/zhe/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/24/yuxi/zhe/db.txt" psway="5x/chinese" type="D"/>
+                              </game>					
+				</zsd>			
+				<zsd name="“黑云翻墨未遮山”精读练习">
+						<game name="选择" zsd="“黑云翻墨未遮山”内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/24/jd/1/1/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/24/jd/1/1/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/24/jd/1/1/db.txt" psway="5x/chinese" type="D"/>
+                              </game>								
+				</zsd>			
+				<zsd name="“接天莲叶无穷碧”精读练习">
+						<game name="选择" zsd="“接天莲叶无穷碧”内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/24/jd/2/3/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/24/jd/2/3/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/24/jd/2/3/db.txt" psway="5x/chinese" type="D"/>
+                              </game>		
+
+                </zsd>
+			</unit>
+                   <unit name="课文25">	
+		           <zsd name="生字“镀”的学习">
+						<game name="选择" zsd="“镀”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/25/yuxi/du/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/25/yuxi/du/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/25/yuxi/du/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“喻”的学习">
+						<game name="选择" zsd="“喻”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/25/yuxi/yu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/25/yuxi/yu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/25/yuxi/yu/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《望月》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/20/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/20/td/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/20/td/db.xml" psway="5x/chinese" type="D"/>
+                              </game>		
+				</zsd>
+				<zsd name="第二段精读练习">
+						<game name="排序" zsd="《望月》第二段内容理解">
+							<intface name="厨房" swf="40" txtway="xt_dir/5x/chinese/25/jd/2/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5x/chinese/25/jd/2/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5x/chinese/25/jd/2/class.txt" psway="5x/chinese" type="D"/>
+                              </game>								
+				</zsd>
+                     <zsd name="第十九段精读练习">
+						<game name="选择" zsd="《望月》第十九段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/25/jd/19/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/25/jd/19/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/25/jd/19/db.txt" psway="5x/chinese" type="D"/>
+                              </game>								
+				</zsd>
+				<zsd name="概括总结">
+						<game name="连线" zsd="《望月》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/25/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/25/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/25/gk/key.txt" psway="5x/chinese" type="D"/>
+                              </game>
+
+
+                </zsd>
+			</unit>
+                   <unit name="课文26">	
+		           <zsd name="生字“棱”的学习">
+						<game name="选择" zsd="“棱”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/26/yuxi/leng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/26/yuxi/leng/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/26/yuxi/leng/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="生字“栖”的学习">
+						<game name="选择" zsd="“栖”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/26/yuxi/qi/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/26/yuxi/qi/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/26/yuxi/qi/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《灰椋鸟》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/26/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/26/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/26/td/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="第四段精读练习">
+						<game name="排序" zsd="《灰椋鸟》第四段内容理解">
+							<intface name="厨房" swf="40" txtway="xt_dir/5x/chinese/26/jd/4/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="校园" swf="41" txtway="xt_dir/5x/chinese/26/jd/4/class.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="42" txtway="xt_dir/5x/chinese/26/jd/4/class.txt" psway="5x/chinese" type="D"/>
+                              </game>								
+				</zsd>
+                     <zsd name="第五段精读练习">
+						<game name="选择" zsd="《灰椋鸟》第五段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/26/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/26/jd/5/db.xml" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/26/jd/5/db.xml" psway="5x/chinese" type="D"/>	
+                              </game>							
+				</zsd>
+				<zsd name="概括总结">
+						<game name="连线" zsd="《灰椋鸟》内容理解">
+							<intface name="记事本" swf="30" txtway="xt_dir/5x/chinese/26/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="种花" swf="31" txtway="xt_dir/5x/chinese/26/gk/key.txt" psway="5x/chinese" type="D"/>
+							<intface name="送信" swf="32" txtway="xt_dir/5x/chinese/26/gk/key.txt" psway="5x/chinese" type="D"/>
+                              </game>
+
+                </zsd>
+			</unit>
+                   <unit name="课文27">	
+		           <zsd name="生字“储”的学习">
+						<game name="选择" zsd="“储”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/27/yuxi/chu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/27/yuxi/chu/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/27/yuxi/chu/db.txt" psway="5x/chinese" type="D"/>
+                              </game>	
+				</zsd>
+				<zsd name="生字“勺”的学习">
+						<game name="选择" zsd="“勺”的音、形、义">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/27/yuxi/shao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/27/yuxi/shao/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/27/yuxi/shao/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="课文初读感知">
+						<game name="选择" zsd="《水》内容了解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/27/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/27/td/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/27/td/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>
+				</zsd>
+				<zsd name="第一段精读练习">
+						<game name="选择" zsd="《水》第一段内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/27/jd/1/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/27/jd/1/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/27/jd/1/db.txt" psway="5x/chinese" type="D"/>	
+                              </game>								
+				</zsd>                
+				<zsd name="概括总结">
+						<game name="选择" zsd="《水》内容理解">
+							<intface name="夹娃娃" swf="00" txtway="xt_dir/5x/chinese/27/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="捉迷藏" swf="01" txtway="xt_dir/5x/chinese/27/gk/db.txt" psway="5x/chinese" type="D"/>
+							<intface name="记事本" swf="02" txtway="xt_dir/5x/chinese/27/gk/db.txt" psway="5x/chinese" type="D"/>
+                              </game>
+				</zsd>
+		  </unit>
+                  </subject>
+
+</grade>
+</txt>

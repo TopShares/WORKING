@@ -1,0 +1,160 @@
+﻿<txt>
+<grade name="">	
+	<subject name="上册">
+				<unit name="第五单元">	
+					<zsd name="第一课时">
+						<game name="填空" zsd="认识1—5">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/5/1/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="认识1—5">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/5/1/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>	
+					</zsd>	
+					<zsd name="第二课时">
+						<game name="填空" zsd="数的组成、写数">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/5/2/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="数的组成、写数">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/5/2/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>	
+					</zsd>	
+					<zsd name="第三课时">
+						<game name="填空" zsd="认识0">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/5/3/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="认识0">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/5/3/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>	
+					</zsd>	
+					<zsd name="第四课时">
+						<game name="填空" zsd="认识＝、＞和＜">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/5/4/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="认识＝、＞和＜">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/5/4/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>	
+					</zsd>
+				</unit>
+                    <unit name="第六单元">	
+					<zsd name="第一课时">
+						<game name="填空" zsd="认识物体">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/6/1/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="认识物体">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/6/1/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>	
+					</zsd>
+				</unit>
+				<unit name="第八单元">	
+					<zsd name="第一课时">
+						<game name="填空" zsd="得数是5以内的加法">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/8/1/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="得数是5以内的加法">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/8/1/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第二课时">
+						<game name="填空" zsd="得数在5以内的加法相对应的减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/8/2/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="得数在5以内的加法相对应的减法">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/8/2/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第三课时">
+						<game name="填空" zsd="0的加、减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/8/3/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="0的加、减法">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/8/3/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第四课时">
+						<game name="填空" zsd="得数是6、7的加法与相应的减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/8/4/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="得数是6、7的加法与相应的减法">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/8/4/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第五课时">
+						<game name="填空" zsd="得数是8、9的加法与相应的减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/8/5/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="得数是8、9的加法与相应的减法">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/8/5/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第六课时">
+						<game name="填空" zsd="得数是10的加法与相应的减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/8/6/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="得数是10的加法与相应的减法">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/8/6/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第八课时">
+						<game name="填空" zsd="连加、连减和加减混合">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/8/8/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="连加、连减和加减混合">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/8/8/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+				</unit>
+                     <unit name="第九单元">	
+					<zsd name="第一课时">
+						<game name="填空" zsd="数数、读数">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/9/1/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="数数、读数">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/9/1/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第二课时">
+						<game name="填空" zsd="数的组成、写数">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/9/2/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="数的组成、写数">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/9/2/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第三课时">
+						<game name="填空" zsd="10加几和相应的减法">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/9/3/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="10加几和相应的减法">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/9/3/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+				</unit>
+                     <unit name="第十单元">	
+					<zsd name="第一课时">
+						<game name="填空" zsd="9加几">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/10/1/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="9加几">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/10/1/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第二课时">
+						<game name="填空" zsd="8、7加几">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/10/2/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="8、7加几">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/10/2/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+                          <zsd name="第三课时">
+						<game name="填空" zsd="6、5、4、3、2加几">
+							<intface name="记事本" swf="20" txtway="xt_dir/1s/math/10/3/1/tk.txt" psway="1s/math" type="D"/>
+                                                       </game>
+						<game name="选择" zsd="6、5、4、3、2加几">
+							<intface name="记事本" swf="02" txtway="xt_dir/1s/math/10/3/2/xz.txt" psway="1s/math" type="D"/>
+                                                      </game>
+					</zsd>
+				</unit>
+          </subject>	
+</grade>
+</txt>
