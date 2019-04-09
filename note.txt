@@ -1,0 +1,11 @@
+--预排船.申请原产地证
+ET_PlanOutGoodsApply.PlanOutGoodsApplyNo
+ET_PlanOutGoodsApply.OriginCertificate
+
+
+
+--运务.运务单号
+ET_OutGoodsApply.OutGoodsApplyNo
+
+
+--ET_OutGoodsRelation 预排船预定舱

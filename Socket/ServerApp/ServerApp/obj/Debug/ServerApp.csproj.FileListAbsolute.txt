@@ -1,7 +1,0 @@
-c:\users\administrator\documents\visual studio 2015\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe
-c:\users\administrator\documents\visual studio 2015\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
-c:\users\administrator\documents\visual studio 2015\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
-c:\users\administrator\documents\visual studio 2015\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.exe
-c:\users\administrator\documents\visual studio 2015\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
-C:\Users\Administrator\Source\Repos\Socket\ServerApp\ServerApp\obj\Debug\ServerApp.exe
-C:\Users\Administrator\Source\Repos\Socket\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
