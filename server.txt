@@ -2,12 +2,19 @@
 Nginx 双机热备
 
 内网穿透：
+#使用ngrok服务,支持微信开发,demo演示,ssh/3389,tcp服务。
+
+https://center.tunnelnat.com/buy.html  不支持绑定域名
+
+
+
+d
 http://www.notr.tech/
 
 
 https://serveo.net/
 https://www.nsloop.com/nattunnel     一个可以快速连接局域网中电脑的软件
-https://github.com/cnlh/nps
+https://github.com/cnlh/nps     	需要公网服务器
 
 如果不考虑使用域名只是为了内网穿透，实现外网可以访问的话，路由器的虚拟服务器功能了解一下？
 
