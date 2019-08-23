@@ -137,6 +137,8 @@ Jenkins集成
 若要通过命令行调用Web Deploy相关功能，只需在MSBuild工具附加下述参数：p:DeployOnBuild=True;PublishProfile=WebDeploy-Demo;Password=P@ssw0rd+;AllowUntrustedCertificate=true
 
 
+
+
 键	            值	                说明
 DeployOnBuild	True or False	    编译后是否发布
 PublishProfile	ProfileName	        使用的发布文件。注意：不需要添加发布文件的扩展名。
