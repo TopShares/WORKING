@@ -131,28 +131,17 @@ PracticesWebsite/PracticesWebsite.csproj
 /T:Package /P:visualStudioVersion=15.0  /P:Configuration=Release /p:Platform=AnyCPU 
  
 
+https://shine.dev/2017/12/14/jenkins-for-webdeploy/
 
-3. 撰寫PowerShell 腳本進行簡易部署
-
-
-Step 1： 新增建置步驟 -> Windows Power Shell 
-
-※這邊只是提供一種快速的方法搬移資料到對應WebSite ，還有很多方法可以達成
+Jenkins集成
+若要通过命令行调用Web Deploy相关功能，只需在MSBuild工具附加下述参数：p:DeployOnBuild=True;PublishProfile=WebDeploy-Demo;Password=P@ssw0rd+;AllowUntrustedCertificate=true
 
 
-Step 2： 輸入如下的PowerShell 腳本 。  
+键	            值	                说明
+DeployOnBuild	True or False	    编译后是否发布
+PublishProfile	ProfileName	        使用的发布文件。注意：不需要添加发布文件的扩展名。
+Password	  发布用户的密码	     此方式会在脚本中暴露对应用户的密码，建议使用证书进行用户认证。
+AllowUntrustedCertificate	    True or False	        具有中间人攻击的安全风险，建议使用证书进行用户认证。
 
-※ 1. # 符號開頭表示註解
 
-※ 2. $sourceFolder 是Jenkins 的安裝位置下，當建置後檔案會放在 $\workspace\【Job 名稱】\【git上專案名稱】
-
-#Step1: 設定來源目錄
-$SourceFolder = "G:\Program Files (x86)\Jenkins\workspace\WebsiteDeploy\PracticesWebSite"
-
-#Step2: 設定覆蓋到IIS WebSite的目錄上
-$DestinationFolder = "D:\github\PracticesWebsite\PracticesWebsite\"
-
-#Step3: 執行資料夾覆蓋 【-Recurse】包含子資料夾底下的內容 【-force】強制覆蓋
-Copy-Item -Path $SourceFolder -Recurse -Destination $DestinationFolder -force
-
-Step 3： 開始進行我們的測試建置 
+在编译成功后，MSBuild会直接调用Web Deploy相关的功能进行发布。
